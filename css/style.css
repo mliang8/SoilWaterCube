@@ -1,0 +1,334 @@
+@import url('https://fonts.googleapis.com/css?family=Abel|Passion+One:400,700|Yantramanav:100,300,400,500,700&display=swap&&effect=decaying');
+
+/*font-family: 'Abel', sans-serif;
+font-family: 'Passion One', cursive;
+*/
+
+html, body {
+			height: 100%;
+			margin: 0;
+      overflow-y: hidden; 
+      overflow-x: hidden; 
+
+}
+
+ul a {
+  color: #8c8c8c;
+  font-style: italic;
+  text-decoration: none;
+}
+
+h2{
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 14px;
+  font-weight:700; 
+  margin-bottom: 0px;
+  margin-top: 0px;
+  margin-left: 5px;
+  color: #3f2c16;
+}
+h2 a{
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 14px;
+  font-weight:700; 
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding-left: 0px;
+  color: #3f2c16;
+  text-decoration: none;
+}
+
+h3{
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 10px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-weight:500; 
+  margin-left: 5px;
+  color: #3f2c16;
+  opacity: 80%;
+}
+p{
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 12px;
+  margin-left: 5px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-weight:400; 
+  color: #3f2c16;
+
+}
+
+#siteTitle{
+  display: inline-block;
+  font-family: 'Passion One', cursive;
+  font-size: 60px;
+  margin-top: 10px;
+  color: #3f2c16;
+}
+
+#sitelogo{
+  display: inline-block;
+  width: 60px;
+  float: left;
+  margin-left: 15px;
+  margin-top: 10px;
+  margin-right: 5px;
+}
+
+
+#mapid { 
+	height: 100%; 
+	width: 65%;
+	display: inline-block;
+	float: right;
+}
+
+#intro{
+  height: 500px;
+  width: 30%;
+  margin: 10px;
+  display: inline-block;
+}
+
+.instruction{
+  display: inline-block;
+  background-color: brown;
+  padding: 5px;
+}
+
+.sources{
+  display: inline-block;
+  background-color: brown;
+  padding: 5px;
+}
+
+#credit{
+  position: absolute;
+  bottom: 0px;
+  margin: 0px;
+
+}
+
+
+
+#wlchart{
+  width: 33%;
+  height: auto;
+  position: absolute;
+  bottom: -20px;
+  margin-bottom: 10px;
+  padding-bottom: 60px;
+  padding-left: 15px;
+  padding-top: 5px;
+ 
+}
+
+#linechart{
+  display: none;
+  background-color: rgba(242, 244, 247,0.2);
+   padding-right: 20px;
+   padding-bottom: 0px;
+}
+
+.axis path,
+  .axis line {
+    fill: none;
+    color: red;
+    shape-rendering: crispEdges;
+  }
+
+  .axis-title {
+    font-family: 'Abel', sans-serif;
+    font-size: :60px;
+  }
+
+  .x.axis path {
+    display: none;
+  }
+
+ 
+
+.line {
+  fill: none;
+  stroke: red;
+  stroke-width: 2px;
+}
+
+
+.tooltip {
+        fill: rgba(184, 213, 227,0);
+        stroke: none;
+    }
+
+
+.tooltip-text{
+  font-family: 'Abel', sans-serif;
+  font-size: 14px;
+  padding: 3px;
+}
+
+.linechart-legend{
+  font-family: 'Abel', sans-serif;
+
+}
+
+
+.vis-panel{
+  background-color: rgba(255, 255, 255,0.5);
+  padding: 15px 10px 0px 10px;
+  border-radius: 5px;
+
+
+}
+
+.temporal-legend{
+  background-color: white;
+  color: #3d2303;
+  font-family: 'Yantramanav', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 5px 10px 5px 10px;
+  border-radius: 7px;
+}
+
+
+
+
+.ndwicontainer, .ndvicontainer, .laicontainer, .faparcontainer {
+        width: 223px;
+        height: 263px;
+        overflow: hidden;
+        display: inline-block;
+       
+}
+
+
+
+.ndwicontainer img, .ndvicontainer img, .laicontainer img, .faparcontainer img {
+        width: 245px;
+        height: 267px;   /*ratio between width and height is 0.917*/
+        margin: 0px 0px 0px -11px;
+}
+
+
+.tab {
+  
+  /*border: 1px solid #ccc;*/
+  background-color: #f1f1f1;
+  max-width: 33%;
+  height: 30px;
+  margin-left: 1%;
+  margin-top: 20px;
+  border-radius: 30px 30px 0px 0px;
+  
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  display: inline-block;
+  background-color: inherit;
+  color: black;
+  font-family:  'Abel', sans-serif;
+  width: 49.5%;
+  height: inherit;
+  border: none;
+  outline: none;
+  text-align: center;
+  cursor: pointer;
+  font-size: 17px;
+  border-radius: 30px 30px 0px 0px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+
+}
+
+/* Create an active/current "tab button" class */
+.tab button.active {
+  background-color: rgba(128, 98, 64,0.4);
+  font-size: 18px;
+}
+
+/* Style the tab content */
+.tabcontent {
+  float: left;
+  display: none;
+  margin-left: 1%;
+  max-width: 33%;
+  height: 500px;
+  background-image: linear-gradient(180deg, rgba(224,224, 224, 0.3), white);
+  /*border-color: rgba(240, 245, 245);*/
+  /*padding: 0px 12px;
+  
+  width: 70%;
+  border-left: none;
+  height: 300px;
+  display: none;*/
+
+}
+
+#Intructions {
+  float: left;
+  display: block;
+  margin-left: 1%;
+  max-width: 33%;
+  height: 500px;
+  background-image: linear-gradient(180deg, rgba(224,224, 224, 0.3), white);
+  /*border-color: rgba(240, 245, 245);*/
+  /*padding: 0px 12px;
+  
+  width: 70%;
+  border-left: none;
+  height: 300px;
+  display: none;*/
+
+}
+#Sources {
+  width: 33%;
+
+}
+
+
+
+ol{
+  margin-top: 8px;
+}
+
+/*.tabcontent p{
+  font-size: 14px;
+  padding: 15px 10px 15px 10px;
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 13px;
+  margin-left: 5px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-weight:400; 
+  color: #3f2c16;
+
+}*/
+
+.tabcontent li{
+  font-size: 15px;
+  padding: 0px 10px 5px 0px;
+  font-family: 'Yantramanav', sans-serif;
+  
+  color: #3f2c16;
+}
+
+
+
+/* Clear floats after the tab */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.range-slider {
+  color: red; 
+}
+
+

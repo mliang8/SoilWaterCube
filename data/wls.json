@@ -1,0 +1,3657 @@
+[
+  {
+    "date": 20160601,
+    "Mohembo_station": 1.87,
+    "Guma_station": 1.04
+  },
+  {
+    "date": 20160602,
+    "Mohembo_station": 1.87,
+    "Guma_station": 1.04
+  },
+  {
+    "date": 20160603,
+    "Mohembo_station": 1.85,
+    "Guma_station": 1.03
+  },
+  {
+    "date": 20160604,
+    "Mohembo_station": 1.82,
+    "Guma_station": 1.04
+  },
+  {
+    "date": 20160605,
+    "Mohembo_station": 1.8,
+    "Guma_station": 1.03
+  },
+  {
+    "date": 20160606,
+    "Mohembo_station": 1.78,
+    "Guma_station": 1.02
+  },
+  {
+    "date": 20160607,
+    "Mohembo_station": 1.75,
+    "Guma_station": 1.01
+  },
+  {
+    "date": 20160608,
+    "Mohembo_station": 1.73,
+    "Guma_station": 1.01
+  },
+  {
+    "date": 20160609,
+    "Mohembo_station": 1.72,
+    "Guma_station": 1.02
+  },
+  {
+    "date": 20160610,
+    "Mohembo_station": 1.7,
+    "Guma_station": 1
+  },
+  {
+    "date": 20160611,
+    "Mohembo_station": 1.67,
+    "Guma_station": 0.99
+  },
+  {
+    "date": 20160612,
+    "Mohembo_station": 1.64,
+    "Guma_station": 0.99
+  },
+  {
+    "date": 20160613,
+    "Mohembo_station": 1.63,
+    "Guma_station": 0.98
+  },
+  {
+    "date": 20160614,
+    "Mohembo_station": 1.6,
+    "Guma_station": 0.98
+  },
+  {
+    "date": 20160615,
+    "Mohembo_station": 1.6,
+    "Guma_station": 0.97
+  },
+  {
+    "date": 20160616,
+    "Mohembo_station": 1.58,
+    "Guma_station": 0.98
+  },
+  {
+    "date": 20160617,
+    "Mohembo_station": 1.57,
+    "Guma_station": 0.96
+  },
+  {
+    "date": 20160618,
+    "Mohembo_station": 1.56,
+    "Guma_station": 0.96
+  },
+  {
+    "date": 20160619,
+    "Mohembo_station": 1.54,
+    "Guma_station": 0.96
+  },
+  {
+    "date": 20160620,
+    "Mohembo_station": 1.52,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20160621,
+    "Mohembo_station": 1.51,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20160622,
+    "Mohembo_station": 1.5,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20160623,
+    "Mohembo_station": 1.48,
+    "Guma_station": 0.93
+  },
+  {
+    "date": 20160624,
+    "Mohembo_station": 1.47,
+    "Guma_station": 0.93
+  },
+  {
+    "date": 20160625,
+    "Mohembo_station": 1.46,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20160626,
+    "Mohembo_station": 1.45,
+    "Guma_station": 0.91
+  },
+  {
+    "date": 20160627,
+    "Mohembo_station": 1.42,
+    "Guma_station": 0.91
+  },
+  {
+    "date": 20160628,
+    "Mohembo_station": 1.41,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20160629,
+    "Mohembo_station": 1.4,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20160630,
+    "Mohembo_station": 1.39,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20160701,
+    "Mohembo_station": 1.37,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20160702,
+    "Mohembo_station": 1.37,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20160703,
+    "Mohembo_station": 1.35,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20160704,
+    "Mohembo_station": 1.34,
+    "Guma_station": 0.88
+  },
+  {
+    "date": 20160705,
+    "Mohembo_station": 1.31,
+    "Guma_station": 0.89
+  },
+  {
+    "date": 20160706,
+    "Mohembo_station": 1.3,
+    "Guma_station": 0.87
+  },
+  {
+    "date": 20160707,
+    "Mohembo_station": 1.3,
+    "Guma_station": 0.86
+  },
+  {
+    "date": 20160708,
+    "Mohembo_station": 1.28,
+    "Guma_station": 0.87
+  },
+  {
+    "date": 20160709,
+    "Mohembo_station": 1.26,
+    "Guma_station": 0.85
+  },
+  {
+    "date": 20160710,
+    "Mohembo_station": 1.26,
+    "Guma_station": 0.86
+  },
+  {
+    "date": 20160711,
+    "Mohembo_station": 1.25,
+    "Guma_station": 0.85
+  },
+  {
+    "date": 20160712,
+    "Mohembo_station": 1.22,
+    "Guma_station": 0.85
+  },
+  {
+    "date": 20160713,
+    "Mohembo_station": 1.2,
+    "Guma_station": 0.84
+  },
+  {
+    "date": 20160714,
+    "Mohembo_station": 1.2,
+    "Guma_station": 0.85
+  },
+  {
+    "date": 20160715,
+    "Mohembo_station": 1.18,
+    "Guma_station": 0.83
+  },
+  {
+    "date": 20160716,
+    "Mohembo_station": 1.16,
+    "Guma_station": 0.84
+  },
+  {
+    "date": 20160717,
+    "Mohembo_station": 1.16,
+    "Guma_station": 0.82
+  },
+  {
+    "date": 20160718,
+    "Mohembo_station": 1.15,
+    "Guma_station": 0.83
+  },
+  {
+    "date": 20160719,
+    "Mohembo_station": 1.13,
+    "Guma_station": 0.82
+  },
+  {
+    "date": 20160720,
+    "Mohembo_station": 1.12,
+    "Guma_station": 0.82
+  },
+  {
+    "date": 20160721,
+    "Mohembo_station": 1.1,
+    "Guma_station": 0.82
+  },
+  {
+    "date": 20160722,
+    "Mohembo_station": 1.09,
+    "Guma_station": 0.82
+  },
+  {
+    "date": 20160723,
+    "Mohembo_station": 1.09,
+    "Guma_station": 0.8
+  },
+  {
+    "date": 20160724,
+    "Mohembo_station": 1.08,
+    "Guma_station": 0.81
+  },
+  {
+    "date": 20160725,
+    "Mohembo_station": 1.07,
+    "Guma_station": 0.8
+  },
+  {
+    "date": 20160726,
+    "Mohembo_station": 1.07,
+    "Guma_station": 0.8
+  },
+  {
+    "date": 20160727,
+    "Mohembo_station": 1.07,
+    "Guma_station": 0.79
+  },
+  {
+    "date": 20160728,
+    "Mohembo_station": 1.04,
+    "Guma_station": 0.8
+  },
+  {
+    "date": 20160729,
+    "Mohembo_station": 1.05,
+    "Guma_station": 0.79
+  },
+  {
+    "date": 20160730,
+    "Mohembo_station": 1.04,
+    "Guma_station": 0.79
+  },
+  {
+    "date": 20160731,
+    "Mohembo_station": 1.03,
+    "Guma_station": 0.79
+  },
+  {
+    "date": 20160801,
+    "Mohembo_station": 1.02,
+    "Guma_station": 0.79
+  },
+  {
+    "date": 20160802,
+    "Mohembo_station": 1.01,
+    "Guma_station": 0.78
+  },
+  {
+    "date": 20160803,
+    "Mohembo_station": 1,
+    "Guma_station": 0.78
+  },
+  {
+    "date": 20160804,
+    "Mohembo_station": 1,
+    "Guma_station": 0.78
+  },
+  {
+    "date": 20160805,
+    "Mohembo_station": 1,
+    "Guma_station": 0.77
+  },
+  {
+    "date": 20160806,
+    "Mohembo_station": 0.99,
+    "Guma_station": 0.77
+  },
+  {
+    "date": 20160807,
+    "Mohembo_station": 0.98,
+    "Guma_station": 0.77
+  },
+  {
+    "date": 20160808,
+    "Mohembo_station": 0.97,
+    "Guma_station": 0.77
+  },
+  {
+    "date": 20160809,
+    "Mohembo_station": 0.96,
+    "Guma_station": 0.76
+  },
+  {
+    "date": 20160810,
+    "Mohembo_station": 0.96,
+    "Guma_station": 0.77
+  },
+  {
+    "date": 20160811,
+    "Mohembo_station": 0.95,
+    "Guma_station": 0.76
+  },
+  {
+    "date": 20160812,
+    "Mohembo_station": 0.94,
+    "Guma_station": 0.76
+  },
+  {
+    "date": 20160813,
+    "Mohembo_station": 0.94,
+    "Guma_station": 0.76
+  },
+  {
+    "date": 20160814,
+    "Mohembo_station": 0.93,
+    "Guma_station": 0.76
+  },
+  {
+    "date": 20160815,
+    "Mohembo_station": 0.92,
+    "Guma_station": 0.76
+  },
+  {
+    "date": 20160816,
+    "Mohembo_station": 0.91,
+    "Guma_station": 0.75
+  },
+  {
+    "date": 20160817,
+    "Mohembo_station": 0.9,
+    "Guma_station": 0.76
+  },
+  {
+    "date": 20160818,
+    "Mohembo_station": 0.9,
+    "Guma_station": 0.75
+  },
+  {
+    "date": 20160819,
+    "Mohembo_station": 0.89,
+    "Guma_station": 0.75
+  },
+  {
+    "date": 20160820,
+    "Mohembo_station": 0.89,
+    "Guma_station": 0.75
+  },
+  {
+    "date": 20160821,
+    "Mohembo_station": 0.88,
+    "Guma_station": 0.75
+  },
+  {
+    "date": 20160822,
+    "Mohembo_station": 0.87,
+    "Guma_station": 0.74
+  },
+  {
+    "date": 20160823,
+    "Mohembo_station": 0.87,
+    "Guma_station": 0.75
+  },
+  {
+    "date": 20160824,
+    "Mohembo_station": 0.86,
+    "Guma_station": 0.74
+  },
+  {
+    "date": 20160825,
+    "Mohembo_station": 0.85,
+    "Guma_station": 0.74
+  },
+  {
+    "date": 20160826,
+    "Mohembo_station": 0.84,
+    "Guma_station": 0.74
+  },
+  {
+    "date": 20160827,
+    "Mohembo_station": 0.83,
+    "Guma_station": 0.74
+  },
+  {
+    "date": 20160828,
+    "Mohembo_station": 0.82,
+    "Guma_station": 0.74
+  },
+  {
+    "date": 20160829,
+    "Mohembo_station": 0.8,
+    "Guma_station": 0.73
+  },
+  {
+    "date": 20160830,
+    "Mohembo_station": 0.8,
+    "Guma_station": 0.74
+  },
+  {
+    "date": 20160831,
+    "Mohembo_station": 0.79,
+    "Guma_station": 0.73
+  },
+  {
+    "date": 20160901,
+    "Mohembo_station": 0.78,
+    "Guma_station": 0.73
+  },
+  {
+    "date": 20160902,
+    "Mohembo_station": 0.78,
+    "Guma_station": 0.73
+  },
+  {
+    "date": 20160903,
+    "Mohembo_station": 0.77,
+    "Guma_station": 0.72
+  },
+  {
+    "date": 20160904,
+    "Mohembo_station": 0.76,
+    "Guma_station": 0.73
+  },
+  {
+    "date": 20160905,
+    "Mohembo_station": 0.76,
+    "Guma_station": 0.71
+  },
+  {
+    "date": 20160906,
+    "Mohembo_station": 0.75,
+    "Guma_station": 0.71
+  },
+  {
+    "date": 20160907,
+    "Mohembo_station": 0.74,
+    "Guma_station": 0.71
+  },
+  {
+    "date": 20160908,
+    "Mohembo_station": 0.74,
+    "Guma_station": 0.71
+  },
+  {
+    "date": 20160909,
+    "Mohembo_station": 0.72,
+    "Guma_station": 0.71
+  },
+  {
+    "date": 20160910,
+    "Mohembo_station": 0.72,
+    "Guma_station": 0.7
+  },
+  {
+    "date": 20160911,
+    "Mohembo_station": 0.7,
+    "Guma_station": 0.71
+  },
+  {
+    "date": 20160912,
+    "Mohembo_station": 0.7,
+    "Guma_station": 0.69
+  },
+  {
+    "date": 20160913,
+    "Mohembo_station": 0.69,
+    "Guma_station": 0.69
+  },
+  {
+    "date": 20160914,
+    "Mohembo_station": 0.67,
+    "Guma_station": 0.69
+  },
+  {
+    "date": 20160915,
+    "Mohembo_station": 0.66,
+    "Guma_station": 0.69
+  },
+  {
+    "date": 20160916,
+    "Mohembo_station": 0.66,
+    "Guma_station": 0.68
+  },
+  {
+    "date": 20160917,
+    "Mohembo_station": 0.66,
+    "Guma_station": 0.68
+  },
+  {
+    "date": 20160918,
+    "Mohembo_station": 0.64,
+    "Guma_station": 0.67
+  },
+  {
+    "date": 20160919,
+    "Mohembo_station": 0.63,
+    "Guma_station": 0.68
+  },
+  {
+    "date": 20160920,
+    "Mohembo_station": 0.62,
+    "Guma_station": 0.66
+  },
+  {
+    "date": 20160921,
+    "Mohembo_station": 0.62,
+    "Guma_station": 0.66
+  },
+  {
+    "date": 20160922,
+    "Mohembo_station": 0.61,
+    "Guma_station": 0.66
+  },
+  {
+    "date": 20160923,
+    "Mohembo_station": 0.6,
+    "Guma_station": 0.66
+  },
+  {
+    "date": 20160924,
+    "Mohembo_station": 0.58,
+    "Guma_station": 0.66
+  },
+  {
+    "date": 20160925,
+    "Mohembo_station": 0.57,
+    "Guma_station": 0.66
+  },
+  {
+    "date": 20160926,
+    "Mohembo_station": 0.56,
+    "Guma_station": 0.66
+  },
+  {
+    "date": 20160927,
+    "Mohembo_station": 0.56,
+    "Guma_station": 0.65
+  },
+  {
+    "date": 20160928,
+    "Mohembo_station": 0.54,
+    "Guma_station": 0.66
+  },
+  {
+    "date": 20160929,
+    "Mohembo_station": 0.53,
+    "Guma_station": 0.65
+  },
+  {
+    "date": 20160930,
+    "Mohembo_station": 0.52,
+    "Guma_station": 0.65
+  },
+  {
+    "date": 20161001,
+    "Mohembo_station": 0.51,
+    "Guma_station": 0.65
+  },
+  {
+    "date": 20161002,
+    "Mohembo_station": 0.51,
+    "Guma_station": 0.64
+  },
+  {
+    "date": 20161003,
+    "Mohembo_station": 0.5,
+    "Guma_station": 0.63
+  },
+  {
+    "date": 20161004,
+    "Mohembo_station": 0.49,
+    "Guma_station": 0.64
+  },
+  {
+    "date": 20161005,
+    "Mohembo_station": 0.48,
+    "Guma_station": 0.63
+  },
+  {
+    "date": 20161006,
+    "Mohembo_station": 0.47,
+    "Guma_station": 0.63
+  },
+  {
+    "date": 20161007,
+    "Mohembo_station": 0.45,
+    "Guma_station": 0.63
+  },
+  {
+    "date": 20161008,
+    "Mohembo_station": 0.43,
+    "Guma_station": 0.62
+  },
+  {
+    "date": 20161009,
+    "Mohembo_station": 0.42,
+    "Guma_station": 0.61
+  },
+  {
+    "date": 20161010,
+    "Mohembo_station": 0.41,
+    "Guma_station": 0.62
+  },
+  {
+    "date": 20161011,
+    "Mohembo_station": 0.4,
+    "Guma_station": 0.6
+  },
+  {
+    "date": 20161012,
+    "Mohembo_station": 0.39,
+    "Guma_station": 0.59
+  },
+  {
+    "date": 20161013,
+    "Mohembo_station": 0.39,
+    "Guma_station": 0.6
+  },
+  {
+    "date": 20161014,
+    "Mohembo_station": 0.38,
+    "Guma_station": 0.58
+  },
+  {
+    "date": 20161015,
+    "Mohembo_station": 0.37,
+    "Guma_station": 0.59
+  },
+  {
+    "date": 20161016,
+    "Mohembo_station": 0.36,
+    "Guma_station": 0.58
+  },
+  {
+    "date": 20161017,
+    "Mohembo_station": 0.35,
+    "Guma_station": 0.58
+  },
+  {
+    "date": 20161018,
+    "Mohembo_station": 0.35,
+    "Guma_station": 0.57
+  },
+  {
+    "date": 20161019,
+    "Mohembo_station": 0.34,
+    "Guma_station": 0.56
+  },
+  {
+    "date": 20161020,
+    "Mohembo_station": 0.33,
+    "Guma_station": 0.57
+  },
+  {
+    "date": 20161021,
+    "Mohembo_station": 0.32,
+    "Guma_station": 0.56
+  },
+  {
+    "date": 20161022,
+    "Mohembo_station": 0.32,
+    "Guma_station": 0.56
+  },
+  {
+    "date": 20161023,
+    "Mohembo_station": 0.31,
+    "Guma_station": 0.56
+  },
+  {
+    "date": 20161024,
+    "Mohembo_station": 0.3,
+    "Guma_station": 0.55
+  },
+  {
+    "date": 20161025,
+    "Mohembo_station": 0.3,
+    "Guma_station": 0.56
+  },
+  {
+    "date": 20161026,
+    "Mohembo_station": 0.29,
+    "Guma_station": 0.54
+  },
+  {
+    "date": 20161027,
+    "Mohembo_station": 0.28,
+    "Guma_station": 0.54
+  },
+  {
+    "date": 20161028,
+    "Mohembo_station": 0.28,
+    "Guma_station": 0.54
+  },
+  {
+    "date": 20161029,
+    "Mohembo_station": 0.27,
+    "Guma_station": 0.53
+  },
+  {
+    "date": 20161030,
+    "Mohembo_station": 0.26,
+    "Guma_station": 0.54
+  },
+  {
+    "date": 20161031,
+    "Mohembo_station": 0.26,
+    "Guma_station": 0.53
+  },
+  {
+    "date": 20161101,
+    "Mohembo_station": 0.25,
+    "Guma_station": 0.53
+  },
+  {
+    "date": 20161102,
+    "Mohembo_station": 0.24,
+    "Guma_station": 0.54
+  },
+  {
+    "date": 20161103,
+    "Mohembo_station": 0.24,
+    "Guma_station": 0.53
+  },
+  {
+    "date": 20161104,
+    "Mohembo_station": 0.24,
+    "Guma_station": 0.53
+  },
+  {
+    "date": 20161105,
+    "Mohembo_station": 0.26,
+    "Guma_station": 0.54
+  },
+  {
+    "date": 20161106,
+    "Mohembo_station": 0.25,
+    "Guma_station": 0.53
+  },
+  {
+    "date": 20161107,
+    "Mohembo_station": 0.24,
+    "Guma_station": 0.51
+  },
+  {
+    "date": 20161108,
+    "Mohembo_station": 0.23,
+    "Guma_station": 0.52
+  },
+  {
+    "date": 20161109,
+    "Mohembo_station": 0.24,
+    "Guma_station": 0.5
+  },
+  {
+    "date": 20161110,
+    "Mohembo_station": 0.24,
+    "Guma_station": 0.51
+  },
+  {
+    "date": 20161111,
+    "Mohembo_station": 0.25,
+    "Guma_station": 0.49
+  },
+  {
+    "date": 20161112,
+    "Mohembo_station": 0.25,
+    "Guma_station": 0.5
+  },
+  {
+    "date": 20161113,
+    "Mohembo_station": 0.25,
+    "Guma_station": 0.48
+  },
+  {
+    "date": 20161114,
+    "Mohembo_station": 0.25,
+    "Guma_station": 0.47
+  },
+  {
+    "date": 20161115,
+    "Mohembo_station": 0.26,
+    "Guma_station": 0.48
+  },
+  {
+    "date": 20161116,
+    "Mohembo_station": 0.25,
+    "Guma_station": 0.46
+  },
+  {
+    "date": 20161117,
+    "Mohembo_station": 0.26,
+    "Guma_station": 0.46
+  },
+  {
+    "date": 20161118,
+    "Mohembo_station": 0.25,
+    "Guma_station": 0.46
+  },
+  {
+    "date": 20161119,
+    "Mohembo_station": 0.25,
+    "Guma_station": 0.46
+  },
+  {
+    "date": 20161120,
+    "Mohembo_station": 0.25,
+    "Guma_station": 0.45
+  },
+  {
+    "date": 20161121,
+    "Mohembo_station": 0.29,
+    "Guma_station": 0.45
+  },
+  {
+    "date": 20161122,
+    "Mohembo_station": 0.3,
+    "Guma_station": 0.45
+  },
+  {
+    "date": 20161123,
+    "Mohembo_station": 0.33,
+    "Guma_station": 0.45
+  },
+  {
+    "date": 20161124,
+    "Mohembo_station": 0.34,
+    "Guma_station": 0.44
+  },
+  {
+    "date": 20161125,
+    "Mohembo_station": 0.36,
+    "Guma_station": 0.44
+  },
+  {
+    "date": 20161126,
+    "Mohembo_station": 0.36,
+    "Guma_station": 0.44
+  },
+  {
+    "date": 20161127,
+    "Mohembo_station": 0.35,
+    "Guma_station": 0.43
+  },
+  {
+    "date": 20161128,
+    "Mohembo_station": 0.36,
+    "Guma_station": 0.42
+  },
+  {
+    "date": 20161129,
+    "Mohembo_station": 0.38,
+    "Guma_station": 0.43
+  },
+  {
+    "date": 20161130,
+    "Mohembo_station": 0.4,
+    "Guma_station": 0.41
+  },
+  {
+    "date": 20161201,
+    "Mohembo_station": 0.41,
+    "Guma_station": 0.42
+  },
+  {
+    "date": 20161202,
+    "Mohembo_station": 0.44,
+    "Guma_station": 0.41
+  },
+  {
+    "date": 20161203,
+    "Mohembo_station": 0.48,
+    "Guma_station": 0.41
+  },
+  {
+    "date": 20161204,
+    "Mohembo_station": 0.52,
+    "Guma_station": 0.41
+  },
+  {
+    "date": 20161205,
+    "Mohembo_station": 0.56,
+    "Guma_station": 0.41
+  },
+  {
+    "date": 20161206,
+    "Mohembo_station": 0.62,
+    "Guma_station": 0.4
+  },
+  {
+    "date": 20161207,
+    "Mohembo_station": 0.67,
+    "Guma_station": 0.41
+  },
+  {
+    "date": 20161208,
+    "Mohembo_station": 0.68,
+    "Guma_station": 0.4
+  },
+  {
+    "date": 20161209,
+    "Mohembo_station": 0.69,
+    "Guma_station": 0.4
+  },
+  {
+    "date": 20161210,
+    "Mohembo_station": 0.7,
+    "Guma_station": 0.4
+  },
+  {
+    "date": 20161211,
+    "Mohembo_station": 0.74,
+    "Guma_station": 0.4
+  },
+  {
+    "date": 20161212,
+    "Mohembo_station": 0.78,
+    "Guma_station": 0.4
+  },
+  {
+    "date": 20161213,
+    "Mohembo_station": 0.8,
+    "Guma_station": 0.4
+  },
+  {
+    "date": 20161214,
+    "Mohembo_station": 0.86,
+    "Guma_station": 0.39
+  },
+  {
+    "date": 20161215,
+    "Mohembo_station": 0.88,
+    "Guma_station": 0.42
+  },
+  {
+    "date": 20161216,
+    "Mohembo_station": 0.9,
+    "Guma_station": 0.44
+  },
+  {
+    "date": 20161217,
+    "Mohembo_station": 0.91,
+    "Guma_station": 0.46
+  },
+  {
+    "date": 20161218,
+    "Mohembo_station": 0.93,
+    "Guma_station": 0.46
+  },
+  {
+    "date": 20161219,
+    "Mohembo_station": 0.94,
+    "Guma_station": 0.46
+  },
+  {
+    "date": 20161220,
+    "Mohembo_station": 0.92,
+    "Guma_station": 0.45
+  },
+  {
+    "date": 20161221,
+    "Mohembo_station": 0.91,
+    "Guma_station": 0.45
+  },
+  {
+    "date": 20161222,
+    "Mohembo_station": 0.92,
+    "Guma_station": 0.45
+  },
+  {
+    "date": 20161223,
+    "Mohembo_station": 0.94,
+    "Guma_station": 0.45
+  },
+  {
+    "date": 20161224,
+    "Mohembo_station": 0.97,
+    "Guma_station": 0.45
+  },
+  {
+    "date": 20161225,
+    "Mohembo_station": 1,
+    "Guma_station": 0.45
+  },
+  {
+    "date": 20161226,
+    "Mohembo_station": 1.07,
+    "Guma_station": 0.45
+  },
+  {
+    "date": 20161227,
+    "Mohembo_station": 1.15,
+    "Guma_station": 0.45
+  },
+  {
+    "date": 20161228,
+    "Mohembo_station": 1.19,
+    "Guma_station": 0.45
+  },
+  {
+    "date": 20161229,
+    "Mohembo_station": 1.22,
+    "Guma_station": 0.45
+  },
+  {
+    "date": 20161230,
+    "Mohembo_station": 1.23,
+    "Guma_station": 0.46
+  },
+  {
+    "date": 20161231,
+    "Mohembo_station": 1.24,
+    "Guma_station": 0.48
+  },
+  {
+    "date": 20170101,
+    "Mohembo_station": 1.27,
+    "Guma_station": 0.48
+  },
+  {
+    "date": 20170102,
+    "Mohembo_station": 1.28,
+    "Guma_station": 0.48
+  },
+  {
+    "date": 20170103,
+    "Mohembo_station": 1.3,
+    "Guma_station": 0.48
+  },
+  {
+    "date": 20170104,
+    "Mohembo_station": 1.37,
+    "Guma_station": 0.48
+  },
+  {
+    "date": 20170105,
+    "Mohembo_station": 1.39,
+    "Guma_station": 0.49
+  },
+  {
+    "date": 20170106,
+    "Mohembo_station": 1.39,
+    "Guma_station": 0.51
+  },
+  {
+    "date": 20170107,
+    "Mohembo_station": 1.39,
+    "Guma_station": 0.52
+  },
+  {
+    "date": 20170108,
+    "Mohembo_station": 1.42,
+    "Guma_station": 0.54
+  },
+  {
+    "date": 20170109,
+    "Mohembo_station": 1.44,
+    "Guma_station": 0.58
+  },
+  {
+    "date": 20170110,
+    "Mohembo_station": 1.45,
+    "Guma_station": 0.59
+  },
+  {
+    "date": 20170111,
+    "Mohembo_station": 1.55,
+    "Guma_station": 0.61
+  },
+  {
+    "date": 20170112,
+    "Mohembo_station": 1.56,
+    "Guma_station": 0.61
+  },
+  {
+    "date": 20170113,
+    "Mohembo_station": 1.56,
+    "Guma_station": 0.62
+  },
+  {
+    "date": 20170114,
+    "Mohembo_station": 1.57,
+    "Guma_station": 0.62
+  },
+  {
+    "date": 20170115,
+    "Mohembo_station": 1.59,
+    "Guma_station": 0.63
+  },
+  {
+    "date": 20170116,
+    "Mohembo_station": 1.62,
+    "Guma_station": 0.64
+  },
+  {
+    "date": 20170117,
+    "Mohembo_station": 1.64,
+    "Guma_station": 0.64
+  },
+  {
+    "date": 20170118,
+    "Mohembo_station": 1.68,
+    "Guma_station": 0.64
+  },
+  {
+    "date": 20170119,
+    "Mohembo_station": 1.71,
+    "Guma_station": 0.64
+  },
+  {
+    "date": 20170120,
+    "Mohembo_station": 1.74,
+    "Guma_station": 0.65
+  },
+  {
+    "date": 20170121,
+    "Mohembo_station": 1.76,
+    "Guma_station": 0.62
+  },
+  {
+    "date": 20170122,
+    "Mohembo_station": 1.79,
+    "Guma_station": 0.62
+  },
+  {
+    "date": 20170123,
+    "Mohembo_station": 1.79,
+    "Guma_station": 0.62
+  },
+  {
+    "date": 20170124,
+    "Mohembo_station": 1.78,
+    "Guma_station": 0.62
+  },
+  {
+    "date": 20170125,
+    "Mohembo_station": 1.76,
+    "Guma_station": 0.64
+  },
+  {
+    "date": 20170126,
+    "Mohembo_station": 1.75,
+    "Guma_station": 0.66
+  },
+  {
+    "date": 20170127,
+    "Mohembo_station": 1.73,
+    "Guma_station": 0.68
+  },
+  {
+    "date": 20170128,
+    "Mohembo_station": 1.71,
+    "Guma_station": 0.72
+  },
+  {
+    "date": 20170129,
+    "Mohembo_station": 1.69,
+    "Guma_station": 0.74
+  },
+  {
+    "date": 20170130,
+    "Mohembo_station": 1.67,
+    "Guma_station": 0.78
+  },
+  {
+    "date": 20170131,
+    "Mohembo_station": 1.66,
+    "Guma_station": 0.78
+  },
+  {
+    "date": 20170201,
+    "Mohembo_station": 1.66,
+    "Guma_station": 0.8
+  },
+  {
+    "date": 20170202,
+    "Mohembo_station": 1.66,
+    "Guma_station": 0.81
+  },
+  {
+    "date": 20170203,
+    "Mohembo_station": 1.67,
+    "Guma_station": 0.82
+  },
+  {
+    "date": 20170204,
+    "Mohembo_station": 1.69,
+    "Guma_station": 0.82
+  },
+  {
+    "date": 20170205,
+    "Mohembo_station": 1.72,
+    "Guma_station": 0.82
+  },
+  {
+    "date": 20170206,
+    "Mohembo_station": 1.77,
+    "Guma_station": 0.84
+  },
+  {
+    "date": 20170207,
+    "Mohembo_station": 1.79,
+    "Guma_station": 0.86
+  },
+  {
+    "date": 20170208,
+    "Mohembo_station": 1.84,
+    "Guma_station": 0.86
+  },
+  {
+    "date": 20170209,
+    "Mohembo_station": 1.86,
+    "Guma_station": 0.86
+  },
+  {
+    "date": 20170210,
+    "Mohembo_station": 1.87,
+    "Guma_station": 0.88
+  },
+  {
+    "date": 20170211,
+    "Mohembo_station": 1.89,
+    "Guma_station": 0.88
+  },
+  {
+    "date": 20170212,
+    "Mohembo_station": 1.9,
+    "Guma_station": 0.88
+  },
+  {
+    "date": 20170213,
+    "Mohembo_station": 1.89,
+    "Guma_station": 0.88
+  },
+  {
+    "date": 20170214,
+    "Mohembo_station": 1.89,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20170215,
+    "Mohembo_station": 1.86,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20170216,
+    "Mohembo_station": 1.84,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20170217,
+    "Mohembo_station": 1.8,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20170218,
+    "Mohembo_station": 1.75,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20170219,
+    "Mohembo_station": 1.7,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20170220,
+    "Mohembo_station": 1.67,
+    "Guma_station": 0.91
+  },
+  {
+    "date": 20170221,
+    "Mohembo_station": 1.62,
+    "Guma_station": 0.93
+  },
+  {
+    "date": 20170222,
+    "Mohembo_station": 1.59,
+    "Guma_station": 0.93
+  },
+  {
+    "date": 20170223,
+    "Mohembo_station": 1.55,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20170224,
+    "Mohembo_station": 1.54,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20170225,
+    "Mohembo_station": 1.54,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20170226,
+    "Mohembo_station": 1.6,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20170227,
+    "Mohembo_station": 1.63,
+    "Guma_station": 0.96
+  },
+  {
+    "date": 20170228,
+    "Mohembo_station": 1.65,
+    "Guma_station": 0.96
+  },
+  {
+    "date": 20170301,
+    "Mohembo_station": 1.68,
+    "Guma_station": 0.96
+  },
+  {
+    "date": 20170302,
+    "Mohembo_station": 1.72,
+    "Guma_station": 0.97
+  },
+  {
+    "date": 20170303,
+    "Mohembo_station": 1.75,
+    "Guma_station": 0.97
+  },
+  {
+    "date": 20170304,
+    "Mohembo_station": 1.78,
+    "Guma_station": 0.98
+  },
+  {
+    "date": 20170305,
+    "Mohembo_station": 1.82,
+    "Guma_station": 0.98
+  },
+  {
+    "date": 20170306,
+    "Mohembo_station": 1.85,
+    "Guma_station": 0.98
+  },
+  {
+    "date": 20170307,
+    "Mohembo_station": 1.87,
+    "Guma_station": 0.98
+  },
+  {
+    "date": 20170308,
+    "Mohembo_station": 1.89,
+    "Guma_station": 0.97
+  },
+  {
+    "date": 20170309,
+    "Mohembo_station": 1.94,
+    "Guma_station": 0.96
+  },
+  {
+    "date": 20170310,
+    "Mohembo_station": 1.89,
+    "Guma_station": 0.97
+  },
+  {
+    "date": 20170311,
+    "Mohembo_station": 1.89,
+    "Guma_station": 0.96
+  },
+  {
+    "date": 20170312,
+    "Mohembo_station": 1.9,
+    "Guma_station": 0.96
+  },
+  {
+    "date": 20170313,
+    "Mohembo_station": 2,
+    "Guma_station": 0.96
+  },
+  {
+    "date": 20170314,
+    "Mohembo_station": 2.02,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20170315,
+    "Mohembo_station": 2.06,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20170316,
+    "Mohembo_station": 2.09,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20170317,
+    "Mohembo_station": 2.12,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20170318,
+    "Mohembo_station": 2.16,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20170319,
+    "Mohembo_station": 2.19,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20170320,
+    "Mohembo_station": 2.23,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20170321,
+    "Mohembo_station": 2.26,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20170322,
+    "Mohembo_station": 2.28,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20170323,
+    "Mohembo_station": 2.28,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20170324,
+    "Mohembo_station": 2.29,
+    "Guma_station": 0.93
+  },
+  {
+    "date": 20170325,
+    "Mohembo_station": 2.28,
+    "Guma_station": 0.93
+  },
+  {
+    "date": 20170326,
+    "Mohembo_station": 2.25,
+    "Guma_station": 0.93
+  },
+  {
+    "date": 20170327,
+    "Mohembo_station": 2.25,
+    "Guma_station": 0.92
+  },
+  {
+    "date": 20170328,
+    "Mohembo_station": 2.21,
+    "Guma_station": 0.92
+  },
+  {
+    "date": 20170329,
+    "Mohembo_station": 2.18,
+    "Guma_station": 0.92
+  },
+  {
+    "date": 20170330,
+    "Mohembo_station": 2.17,
+    "Guma_station": 0.93
+  },
+  {
+    "date": 20170331,
+    "Mohembo_station": 2.15,
+    "Guma_station": 0.93
+  },
+  {
+    "date": 20170401,
+    "Mohembo_station": 2.16,
+    "Guma_station": 0.93
+  },
+  {
+    "date": 20170402,
+    "Mohembo_station": 2.18,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20170403,
+    "Mohembo_station": 2.19,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20170404,
+    "Mohembo_station": 2.2,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20170405,
+    "Mohembo_station": 2.22,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20170406,
+    "Mohembo_station": 2.22,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20170407,
+    "Mohembo_station": 2.22,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20170408,
+    "Mohembo_station": 2.21,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20170409,
+    "Mohembo_station": 2.2,
+    "Guma_station": 0.96
+  },
+  {
+    "date": 20170410,
+    "Mohembo_station": 2.19,
+    "Guma_station": 0.97
+  },
+  {
+    "date": 20170411,
+    "Mohembo_station": 2.19,
+    "Guma_station": 0.97
+  },
+  {
+    "date": 20170412,
+    "Mohembo_station": 2.19,
+    "Guma_station": 0.98
+  },
+  {
+    "date": 20170413,
+    "Mohembo_station": 2.2,
+    "Guma_station": 0.99
+  },
+  {
+    "date": 20170414,
+    "Mohembo_station": 2.22,
+    "Guma_station": 1
+  },
+  {
+    "date": 20170415,
+    "Mohembo_station": 2.24,
+    "Guma_station": 1
+  },
+  {
+    "date": 20170416,
+    "Mohembo_station": 2.25,
+    "Guma_station": 1
+  },
+  {
+    "date": 20170417,
+    "Mohembo_station": 2.26,
+    "Guma_station": 1
+  },
+  {
+    "date": 20170418,
+    "Mohembo_station": 2.26,
+    "Guma_station": 1
+  },
+  {
+    "date": 20170419,
+    "Mohembo_station": 2.25,
+    "Guma_station": 1
+  },
+  {
+    "date": 20170420,
+    "Mohembo_station": 2.25,
+    "Guma_station": 1
+  },
+  {
+    "date": 20170421,
+    "Mohembo_station": 2.23,
+    "Guma_station": 1
+  },
+  {
+    "date": 20170422,
+    "Mohembo_station": 2.2,
+    "Guma_station": 1
+  },
+  {
+    "date": 20170423,
+    "Mohembo_station": 2.21,
+    "Guma_station": 1.02
+  },
+  {
+    "date": 20170424,
+    "Mohembo_station": 2.2,
+    "Guma_station": 1.02
+  },
+  {
+    "date": 20170425,
+    "Mohembo_station": 2.17,
+    "Guma_station": 1.02
+  },
+  {
+    "date": 20170426,
+    "Mohembo_station": 2.13,
+    "Guma_station": 1.03
+  },
+  {
+    "date": 20170427,
+    "Mohembo_station": 2.1,
+    "Guma_station": 1.04
+  },
+  {
+    "date": 20170428,
+    "Mohembo_station": 2.05,
+    "Guma_station": 1.04
+  },
+  {
+    "date": 20170429,
+    "Mohembo_station": 2.01,
+    "Guma_station": 1.04
+  },
+  {
+    "date": 20170430,
+    "Mohembo_station": 1.98,
+    "Guma_station": 1.04
+  },
+  {
+    "date": 20170501,
+    "Mohembo_station": 1.96,
+    "Guma_station": 1.05
+  },
+  {
+    "date": 20170502,
+    "Mohembo_station": 1.93,
+    "Guma_station": 1.04
+  },
+  {
+    "date": 20170503,
+    "Mohembo_station": 1.91,
+    "Guma_station": 1.04
+  },
+  {
+    "date": 20170504,
+    "Mohembo_station": 1.88,
+    "Guma_station": 1.04
+  },
+  {
+    "date": 20170505,
+    "Mohembo_station": 1.87,
+    "Guma_station": 1.04
+  },
+  {
+    "date": 20170506,
+    "Mohembo_station": 1.86,
+    "Guma_station": 1.04
+  },
+  {
+    "date": 20170507,
+    "Mohembo_station": 1.84,
+    "Guma_station": 1.04
+  },
+  {
+    "date": 20170508,
+    "Mohembo_station": 1.84,
+    "Guma_station": 1.04
+  },
+  {
+    "date": 20170509,
+    "Mohembo_station": 1.84,
+    "Guma_station": 1.04
+  },
+  {
+    "date": 20170510,
+    "Mohembo_station": 1.83,
+    "Guma_station": 1.04
+  },
+  {
+    "date": 20170511,
+    "Mohembo_station": 1.82,
+    "Guma_station": 1.04
+  },
+  {
+    "date": 20170512,
+    "Mohembo_station": 1.81,
+    "Guma_station": 1.04
+  },
+  {
+    "date": 20170513,
+    "Mohembo_station": 1.78,
+    "Guma_station": 1.03
+  },
+  {
+    "date": 20170514,
+    "Mohembo_station": 1.77,
+    "Guma_station": 1.03
+  },
+  {
+    "date": 20170515,
+    "Mohembo_station": 1.75,
+    "Guma_station": 1.03
+  },
+  {
+    "date": 20170516,
+    "Mohembo_station": 1.72,
+    "Guma_station": 1.03
+  },
+  {
+    "date": 20170517,
+    "Mohembo_station": 1.7,
+    "Guma_station": 1.03
+  },
+  {
+    "date": 20170518,
+    "Mohembo_station": 1.68,
+    "Guma_station": 1.03
+  },
+  {
+    "date": 20170519,
+    "Mohembo_station": 1.66,
+    "Guma_station": 1.03
+  },
+  {
+    "date": 20170520,
+    "Mohembo_station": 1.63,
+    "Guma_station": 1.03
+  },
+  {
+    "date": 20170521,
+    "Mohembo_station": 1.6,
+    "Guma_station": 1.03
+  },
+  {
+    "date": 20170522,
+    "Mohembo_station": 1.58,
+    "Guma_station": 1.01
+  },
+  {
+    "date": 20170523,
+    "Mohembo_station": 1.56,
+    "Guma_station": 1.01
+  },
+  {
+    "date": 20170524,
+    "Mohembo_station": 1.54,
+    "Guma_station": 1.01
+  },
+  {
+    "date": 20170525,
+    "Mohembo_station": 1.51,
+    "Guma_station": 1.01
+  },
+  {
+    "date": 20170526,
+    "Mohembo_station": 1.5,
+    "Guma_station": 1
+  },
+  {
+    "date": 20170527,
+    "Mohembo_station": 1.48,
+    "Guma_station": 1
+  },
+  {
+    "date": 20170528,
+    "Mohembo_station": 1.46,
+    "Guma_station": 0.98
+  },
+  {
+    "date": 20170529,
+    "Mohembo_station": 1.44,
+    "Guma_station": 0.98
+  },
+  {
+    "date": 20170530,
+    "Mohembo_station": 1.42,
+    "Guma_station": 0.96
+  },
+  {
+    "date": 20170531,
+    "Mohembo_station": 1.4,
+    "Guma_station": 0.96
+  },
+  {
+    "date": 20170601,
+    "Mohembo_station": 1.39,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20170602,
+    "Mohembo_station": 1.37,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20170603,
+    "Mohembo_station": 1.35,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20170604,
+    "Mohembo_station": 1.34,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20170605,
+    "Mohembo_station": 1.33,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20170606,
+    "Mohembo_station": 1.32,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20170607,
+    "Mohembo_station": 1.3,
+    "Guma_station": 0.93
+  },
+  {
+    "date": 20170608,
+    "Mohembo_station": 1.29,
+    "Guma_station": 0.93
+  },
+  {
+    "date": 20170609,
+    "Mohembo_station": 1.28,
+    "Guma_station": 0.93
+  },
+  {
+    "date": 20170610,
+    "Mohembo_station": 1.26,
+    "Guma_station": 0.93
+  },
+  {
+    "date": 20170611,
+    "Mohembo_station": 1.25,
+    "Guma_station": 0.93
+  },
+  {
+    "date": 20170612,
+    "Mohembo_station": 1.24,
+    "Guma_station": 0.92
+  },
+  {
+    "date": 20170613,
+    "Mohembo_station": 1.23,
+    "Guma_station": 0.92
+  },
+  {
+    "date": 20170614,
+    "Mohembo_station": 1.21,
+    "Guma_station": 0.92
+  },
+  {
+    "date": 20170615,
+    "Mohembo_station": 1.2,
+    "Guma_station": 0.92
+  },
+  {
+    "date": 20170616,
+    "Mohembo_station": 1.19,
+    "Guma_station": 0.92
+  },
+  {
+    "date": 20170617,
+    "Mohembo_station": 1.18,
+    "Guma_station": 0.91
+  },
+  {
+    "date": 20170618,
+    "Mohembo_station": 1.16,
+    "Guma_station": 0.91
+  },
+  {
+    "date": 20170619,
+    "Mohembo_station": 1.16,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20170620,
+    "Mohembo_station": 1.15,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20170621,
+    "Mohembo_station": 1.15,
+    "Guma_station": 0.88
+  },
+  {
+    "date": 20170622,
+    "Mohembo_station": 1.12,
+    "Guma_station": 0.88
+  },
+  {
+    "date": 20170623,
+    "Mohembo_station": 1.1,
+    "Guma_station": 0.88
+  },
+  {
+    "date": 20170624,
+    "Mohembo_station": 1.09,
+    "Guma_station": 0.86
+  },
+  {
+    "date": 20170625,
+    "Mohembo_station": 1.07,
+    "Guma_station": 0.86
+  },
+  {
+    "date": 20170626,
+    "Mohembo_station": 1.07,
+    "Guma_station": 0.86
+  },
+  {
+    "date": 20170627,
+    "Mohembo_station": 1.05,
+    "Guma_station": 0.86
+  },
+  {
+    "date": 20170628,
+    "Mohembo_station": 1.04,
+    "Guma_station": 0.86
+  },
+  {
+    "date": 20170629,
+    "Mohembo_station": 1.03,
+    "Guma_station": 0.86
+  },
+  {
+    "date": 20170630,
+    "Mohembo_station": 1.02,
+    "Guma_station": 0.85
+  },
+  {
+    "date": 20170701,
+    "Mohembo_station": 1,
+    "Guma_station": 0.85
+  },
+  {
+    "date": 20170702,
+    "Mohembo_station": 1,
+    "Guma_station": 0.85
+  },
+  {
+    "date": 20170703,
+    "Mohembo_station": 0.98,
+    "Guma_station": 0.85
+  },
+  {
+    "date": 20170704,
+    "Mohembo_station": 0.97,
+    "Guma_station": 0.83
+  },
+  {
+    "date": 20170705,
+    "Mohembo_station": 0.95,
+    "Guma_station": 0.83
+  },
+  {
+    "date": 20170706,
+    "Mohembo_station": 0.94,
+    "Guma_station": 0.83
+  },
+  {
+    "date": 20170707,
+    "Mohembo_station": 0.92,
+    "Guma_station": 0.81
+  },
+  {
+    "date": 20170708,
+    "Mohembo_station": 0.91,
+    "Guma_station": 0.81
+  },
+  {
+    "date": 20170709,
+    "Mohembo_station": 0.9,
+    "Guma_station": 0.81
+  },
+  {
+    "date": 20170710,
+    "Mohembo_station": 0.88,
+    "Guma_station": 0.81
+  },
+  {
+    "date": 20170711,
+    "Mohembo_station": 0.87,
+    "Guma_station": 0.81
+  },
+  {
+    "date": 20170712,
+    "Mohembo_station": 0.84,
+    "Guma_station": 0.81
+  },
+  {
+    "date": 20170713,
+    "Mohembo_station": 0.81,
+    "Guma_station": 0.8
+  },
+  {
+    "date": 20170714,
+    "Mohembo_station": 0.8,
+    "Guma_station": 0.8
+  },
+  {
+    "date": 20170715,
+    "Mohembo_station": 0.79,
+    "Guma_station": 0.8
+  },
+  {
+    "date": 20170716,
+    "Mohembo_station": 0.79,
+    "Guma_station": 0.8
+  },
+  {
+    "date": 20170717,
+    "Mohembo_station": 0.78,
+    "Guma_station": 0.8
+  },
+  {
+    "date": 20170718,
+    "Mohembo_station": 0.77,
+    "Guma_station": 0.8
+  },
+  {
+    "date": 20170719,
+    "Mohembo_station": 0.76,
+    "Guma_station": 0.8
+  },
+  {
+    "date": 20170720,
+    "Mohembo_station": 0.75,
+    "Guma_station": 0.79
+  },
+  {
+    "date": 20170721,
+    "Mohembo_station": 0.74,
+    "Guma_station": 0.79
+  },
+  {
+    "date": 20170722,
+    "Mohembo_station": 0.73,
+    "Guma_station": 0.79
+  },
+  {
+    "date": 20170723,
+    "Mohembo_station": 0.72,
+    "Guma_station": 0.79
+  },
+  {
+    "date": 20170724,
+    "Mohembo_station": 0.71,
+    "Guma_station": 0.79
+  },
+  {
+    "date": 20170725,
+    "Mohembo_station": 0.7,
+    "Guma_station": 0.79
+  },
+  {
+    "date": 20170726,
+    "Mohembo_station": 0.69,
+    "Guma_station": 0.79
+  },
+  {
+    "date": 20170727,
+    "Mohembo_station": 0.68,
+    "Guma_station": 0.78
+  },
+  {
+    "date": 20170728,
+    "Mohembo_station": 0.67,
+    "Guma_station": 0.78
+  },
+  {
+    "date": 20170729,
+    "Mohembo_station": 0.67,
+    "Guma_station": 0.78
+  },
+  {
+    "date": 20170730,
+    "Mohembo_station": 0.66,
+    "Guma_station": 0.78
+  },
+  {
+    "date": 20170731,
+    "Mohembo_station": 0.65,
+    "Guma_station": 0.77
+  },
+  {
+    "date": 20170801,
+    "Mohembo_station": 0.65,
+    "Guma_station": 0.77
+  },
+  {
+    "date": 20170802,
+    "Mohembo_station": 0.64,
+    "Guma_station": 0.76
+  },
+  {
+    "date": 20170803,
+    "Mohembo_station": 0.63,
+    "Guma_station": 0.76
+  },
+  {
+    "date": 20170804,
+    "Mohembo_station": 0.63,
+    "Guma_station": 0.76
+  },
+  {
+    "date": 20170805,
+    "Mohembo_station": 0.62,
+    "Guma_station": 0.76
+  },
+  {
+    "date": 20170806,
+    "Mohembo_station": 0.62,
+    "Guma_station": 0.76
+  },
+  {
+    "date": 20170807,
+    "Mohembo_station": 0.62,
+    "Guma_station": 0.76
+  },
+  {
+    "date": 20170808,
+    "Mohembo_station": 0.6,
+    "Guma_station": 0.76
+  },
+  {
+    "date": 20170809,
+    "Mohembo_station": 0.6,
+    "Guma_station": 0.76
+  },
+  {
+    "date": 20170810,
+    "Mohembo_station": 0.59,
+    "Guma_station": 0.76
+  },
+  {
+    "date": 20170811,
+    "Mohembo_station": 0.58,
+    "Guma_station": 0.76
+  },
+  {
+    "date": 20170812,
+    "Mohembo_station": 0.58,
+    "Guma_station": 0.76
+  },
+  {
+    "date": 20170813,
+    "Mohembo_station": 0.57,
+    "Guma_station": 0.75
+  },
+  {
+    "date": 20170814,
+    "Mohembo_station": 0.56,
+    "Guma_station": 0.75
+  },
+  {
+    "date": 20170815,
+    "Mohembo_station": 0.56,
+    "Guma_station": 0.75
+  },
+  {
+    "date": 20170816,
+    "Mohembo_station": 0.56,
+    "Guma_station": 0.75
+  },
+  {
+    "date": 20170817,
+    "Mohembo_station": 0.55,
+    "Guma_station": 0.75
+  },
+  {
+    "date": 20170818,
+    "Mohembo_station": 0.54,
+    "Guma_station": 0.75
+  },
+  {
+    "date": 20170819,
+    "Mohembo_station": 0.54,
+    "Guma_station": 0.75
+  },
+  {
+    "date": 20170820,
+    "Mohembo_station": 0.53,
+    "Guma_station": 0.75
+  },
+  {
+    "date": 20170821,
+    "Mohembo_station": 0.52,
+    "Guma_station": 0.74
+  },
+  {
+    "date": 20170822,
+    "Mohembo_station": 0.52,
+    "Guma_station": 0.74
+  },
+  {
+    "date": 20170823,
+    "Mohembo_station": 0.51,
+    "Guma_station": 0.73
+  },
+  {
+    "date": 20170824,
+    "Mohembo_station": 0.5,
+    "Guma_station": 0.73
+  },
+  {
+    "date": 20170825,
+    "Mohembo_station": 0.5,
+    "Guma_station": 0.73
+  },
+  {
+    "date": 20170826,
+    "Mohembo_station": 0.5,
+    "Guma_station": 0.72
+  },
+  {
+    "date": 20170827,
+    "Mohembo_station": 0.49,
+    "Guma_station": 0.72
+  },
+  {
+    "date": 20170828,
+    "Mohembo_station": 0.49,
+    "Guma_station": 0.72
+  },
+  {
+    "date": 20170829,
+    "Mohembo_station": 0.48,
+    "Guma_station": 0.72
+  },
+  {
+    "date": 20170830,
+    "Mohembo_station": 0.47,
+    "Guma_station": 0.7
+  },
+  {
+    "date": 20170831,
+    "Mohembo_station": 0.46,
+    "Guma_station": 0.7
+  },
+  {
+    "date": 20170901,
+    "Mohembo_station": 0.45,
+    "Guma_station": 0.7
+  },
+  {
+    "date": 20170902,
+    "Mohembo_station": 0.44,
+    "Guma_station": 0.7
+  },
+  {
+    "date": 20170903,
+    "Mohembo_station": 0.44,
+    "Guma_station": 0.7
+  },
+  {
+    "date": 20170904,
+    "Mohembo_station": 0.44,
+    "Guma_station": 0.68
+  },
+  {
+    "date": 20170905,
+    "Mohembo_station": 0.43,
+    "Guma_station": 0.68
+  },
+  {
+    "date": 20170906,
+    "Mohembo_station": 0.42,
+    "Guma_station": 0.68
+  },
+  {
+    "date": 20170907,
+    "Mohembo_station": 0.42,
+    "Guma_station": 0.68
+  },
+  {
+    "date": 20170908,
+    "Mohembo_station": 0.41,
+    "Guma_station": 0.68
+  },
+  {
+    "date": 20170909,
+    "Mohembo_station": 0.41,
+    "Guma_station": 0.68
+  },
+  {
+    "date": 20170910,
+    "Mohembo_station": 0.4,
+    "Guma_station": 0.68
+  },
+  {
+    "date": 20170911,
+    "Mohembo_station": 0.39,
+    "Guma_station": 0.68
+  },
+  {
+    "date": 20170912,
+    "Mohembo_station": 0.39,
+    "Guma_station": 0.66
+  },
+  {
+    "date": 20170913,
+    "Mohembo_station": 0.37,
+    "Guma_station": 0.66
+  },
+  {
+    "date": 20170914,
+    "Mohembo_station": 0.37,
+    "Guma_station": 0.66
+  },
+  {
+    "date": 20170915,
+    "Mohembo_station": 0.36,
+    "Guma_station": 0.66
+  },
+  {
+    "date": 20170916,
+    "Mohembo_station": 0.36,
+    "Guma_station": 0.66
+  },
+  {
+    "date": 20170917,
+    "Mohembo_station": 0.35,
+    "Guma_station": 0.66
+  },
+  {
+    "date": 20170918,
+    "Mohembo_station": 0.34,
+    "Guma_station": 0.66
+  },
+  {
+    "date": 20170919,
+    "Mohembo_station": 0.33,
+    "Guma_station": 0.66
+  },
+  {
+    "date": 20170920,
+    "Mohembo_station": 0.33,
+    "Guma_station": 0.65
+  },
+  {
+    "date": 20170921,
+    "Mohembo_station": 0.32,
+    "Guma_station": 0.65
+  },
+  {
+    "date": 20170922,
+    "Mohembo_station": 0.31,
+    "Guma_station": 0.65
+  },
+  {
+    "date": 20170923,
+    "Mohembo_station": 0.3,
+    "Guma_station": 0.65
+  },
+  {
+    "date": 20170924,
+    "Mohembo_station": 0.3,
+    "Guma_station": 0.65
+  },
+  {
+    "date": 20170925,
+    "Mohembo_station": 0.29,
+    "Guma_station": 0.65
+  },
+  {
+    "date": 20170926,
+    "Mohembo_station": 0.28,
+    "Guma_station": 0.64
+  },
+  {
+    "date": 20170927,
+    "Mohembo_station": 0.27,
+    "Guma_station": 0.64
+  },
+  {
+    "date": 20170928,
+    "Mohembo_station": 0.26,
+    "Guma_station": 0.64
+  },
+  {
+    "date": 20170929,
+    "Mohembo_station": 0.25,
+    "Guma_station": 0.64
+  },
+  {
+    "date": 20170930,
+    "Mohembo_station": 0.25,
+    "Guma_station": 0.64
+  },
+  {
+    "date": 20171001,
+    "Mohembo_station": 0.24,
+    "Guma_station": 0.64
+  },
+  {
+    "date": 20171002,
+    "Mohembo_station": 0.24,
+    "Guma_station": 0.64
+  },
+  {
+    "date": 20171003,
+    "Mohembo_station": 0.25,
+    "Guma_station": 0.64
+  },
+  {
+    "date": 20171004,
+    "Mohembo_station": 0.23,
+    "Guma_station": 0.63
+  },
+  {
+    "date": 20171005,
+    "Mohembo_station": 0.22,
+    "Guma_station": 0.63
+  },
+  {
+    "date": 20171006,
+    "Mohembo_station": 0.22,
+    "Guma_station": 0.63
+  },
+  {
+    "date": 20171007,
+    "Mohembo_station": 0.21,
+    "Guma_station": 0.63
+  },
+  {
+    "date": 20171008,
+    "Mohembo_station": 0.2,
+    "Guma_station": 0.62
+  },
+  {
+    "date": 20171009,
+    "Mohembo_station": 0.2,
+    "Guma_station": 0.62
+  },
+  {
+    "date": 20171010,
+    "Mohembo_station": 0.2,
+    "Guma_station": 0.62
+  },
+  {
+    "date": 20171011,
+    "Mohembo_station": 0.19,
+    "Guma_station": 0.62
+  },
+  {
+    "date": 20171012,
+    "Mohembo_station": 0.17,
+    "Guma_station": 0.62
+  },
+  {
+    "date": 20171013,
+    "Mohembo_station": 0.17,
+    "Guma_station": 0.62
+  },
+  {
+    "date": 20171014,
+    "Mohembo_station": 0.16,
+    "Guma_station": 0.61
+  },
+  {
+    "date": 20171015,
+    "Mohembo_station": 0.16,
+    "Guma_station": 0.61
+  },
+  {
+    "date": 20171016,
+    "Mohembo_station": 0.15,
+    "Guma_station": 0.61
+  },
+  {
+    "date": 20171017,
+    "Mohembo_station": 0.14,
+    "Guma_station": 0.6
+  },
+  {
+    "date": 20171018,
+    "Mohembo_station": 0.14,
+    "Guma_station": 0.6
+  },
+  {
+    "date": 20171019,
+    "Mohembo_station": 0.12,
+    "Guma_station": 0.6
+  },
+  {
+    "date": 20171020,
+    "Mohembo_station": 0.12,
+    "Guma_station": 0.6
+  },
+  {
+    "date": 20171021,
+    "Mohembo_station": 0.12,
+    "Guma_station": 0.6
+  },
+  {
+    "date": 20171022,
+    "Mohembo_station": 0.11,
+    "Guma_station": 0.6
+  },
+  {
+    "date": 20171023,
+    "Mohembo_station": 0.1,
+    "Guma_station": 0.58
+  },
+  {
+    "date": 20171024,
+    "Mohembo_station": 0.1,
+    "Guma_station": 0.58
+  },
+  {
+    "date": 20171025,
+    "Mohembo_station": 0.09,
+    "Guma_station": 0.56
+  },
+  {
+    "date": 20171026,
+    "Mohembo_station": 0.09,
+    "Guma_station": 0.56
+  },
+  {
+    "date": 20171027,
+    "Mohembo_station": 0.08,
+    "Guma_station": 0.56
+  },
+  {
+    "date": 20171028,
+    "Mohembo_station": 0.08,
+    "Guma_station": 0.54
+  },
+  {
+    "date": 20171029,
+    "Mohembo_station": 0.1,
+    "Guma_station": 0.52
+  },
+  {
+    "date": 20171030,
+    "Mohembo_station": 0.1,
+    "Guma_station": 0.52
+  },
+  {
+    "date": 20171031,
+    "Mohembo_station": 0.09,
+    "Guma_station": 0.52
+  },
+  {
+    "date": 20171101,
+    "Mohembo_station": 0.09,
+    "Guma_station": 0.5
+  },
+  {
+    "date": 20171102,
+    "Mohembo_station": 0.09,
+    "Guma_station": 0.48
+  },
+  {
+    "date": 20171103,
+    "Mohembo_station": 0.09,
+    "Guma_station": 0.48
+  },
+  {
+    "date": 20171104,
+    "Mohembo_station": 0.1,
+    "Guma_station": 0.47
+  },
+  {
+    "date": 20171105,
+    "Mohembo_station": 0.11,
+    "Guma_station": 0.46
+  },
+  {
+    "date": 20171106,
+    "Mohembo_station": 0.11,
+    "Guma_station": 0.46
+  },
+  {
+    "date": 20171107,
+    "Mohembo_station": 0.1,
+    "Guma_station": 0.45
+  },
+  {
+    "date": 20171108,
+    "Mohembo_station": 0.1,
+    "Guma_station": 0.45
+  },
+  {
+    "date": 20171109,
+    "Mohembo_station": 0.1,
+    "Guma_station": 0.43
+  },
+  {
+    "date": 20171110,
+    "Mohembo_station": 0.11,
+    "Guma_station": 0.43
+  },
+  {
+    "date": 20171111,
+    "Mohembo_station": 0.11,
+    "Guma_station": 0.42
+  },
+  {
+    "date": 20171112,
+    "Mohembo_station": 0.13,
+    "Guma_station": 0.4
+  },
+  {
+    "date": 20171113,
+    "Mohembo_station": 0.14,
+    "Guma_station": 0.4
+  },
+  {
+    "date": 20171114,
+    "Mohembo_station": 0.14,
+    "Guma_station": 0.38
+  },
+  {
+    "date": 20171115,
+    "Mohembo_station": 0.14,
+    "Guma_station": 0.38
+  },
+  {
+    "date": 20171116,
+    "Mohembo_station": 0.14,
+    "Guma_station": 0.38
+  },
+  {
+    "date": 20171117,
+    "Mohembo_station": 0.14,
+    "Guma_station": 0.36
+  },
+  {
+    "date": 20171118,
+    "Mohembo_station": 0.12,
+    "Guma_station": 0.36
+  },
+  {
+    "date": 20171119,
+    "Mohembo_station": 0.12,
+    "Guma_station": 0.36
+  },
+  {
+    "date": 20171120,
+    "Mohembo_station": 0.12,
+    "Guma_station": 0.35
+  },
+  {
+    "date": 20171121,
+    "Mohembo_station": 0.14,
+    "Guma_station": 0.34
+  },
+  {
+    "date": 20171122,
+    "Mohembo_station": 0.15,
+    "Guma_station": 0.34
+  },
+  {
+    "date": 20171123,
+    "Mohembo_station": 0.14,
+    "Guma_station": 0.33
+  },
+  {
+    "date": 20171124,
+    "Mohembo_station": 0.13,
+    "Guma_station": 0.32
+  },
+  {
+    "date": 20171125,
+    "Mohembo_station": 0.13,
+    "Guma_station": 0.31
+  },
+  {
+    "date": 20171126,
+    "Mohembo_station": 0.12,
+    "Guma_station": 0.31
+  },
+  {
+    "date": 20171127,
+    "Mohembo_station": 0.12,
+    "Guma_station": 0.31
+  },
+  {
+    "date": 20171128,
+    "Mohembo_station": 0.13,
+    "Guma_station": 0.31
+  },
+  {
+    "date": 20171129,
+    "Mohembo_station": 0.14,
+    "Guma_station": 0.31
+  },
+  {
+    "date": 20171130,
+    "Mohembo_station": 0.15,
+    "Guma_station": 0.3
+  },
+  {
+    "date": 20171201,
+    "Mohembo_station": 0.16,
+    "Guma_station": 0.31
+  },
+  {
+    "date": 20171202,
+    "Mohembo_station": 0.16,
+    "Guma_station": 0.3
+  },
+  {
+    "date": 20171203,
+    "Mohembo_station": 0.17,
+    "Guma_station": 0.3
+  },
+  {
+    "date": 20171204,
+    "Mohembo_station": 0.2,
+    "Guma_station": 0.3
+  },
+  {
+    "date": 20171205,
+    "Mohembo_station": 0.24,
+    "Guma_station": 0.3
+  },
+  {
+    "date": 20171206,
+    "Mohembo_station": 0.24,
+    "Guma_station": 0.3
+  },
+  {
+    "date": 20171207,
+    "Mohembo_station": 0.24,
+    "Guma_station": 0.3
+  },
+  {
+    "date": 20171208,
+    "Mohembo_station": 0.28,
+    "Guma_station": 0.29
+  },
+  {
+    "date": 20171209,
+    "Mohembo_station": 0.3,
+    "Guma_station": 0.29
+  },
+  {
+    "date": 20171210,
+    "Mohembo_station": 0.3,
+    "Guma_station": 0.28
+  },
+  {
+    "date": 20171211,
+    "Mohembo_station": 0.3,
+    "Guma_station": 0.28
+  },
+  {
+    "date": 20171212,
+    "Mohembo_station": 0.28,
+    "Guma_station": 0.28
+  },
+  {
+    "date": 20171213,
+    "Mohembo_station": 0.28,
+    "Guma_station": 0.27
+  },
+  {
+    "date": 20171214,
+    "Mohembo_station": 0.27,
+    "Guma_station": 0.27
+  },
+  {
+    "date": 20171215,
+    "Mohembo_station": 0.26,
+    "Guma_station": 0.27
+  },
+  {
+    "date": 20171216,
+    "Mohembo_station": 0.25,
+    "Guma_station": 0.26
+  },
+  {
+    "date": 20171217,
+    "Mohembo_station": 0.27,
+    "Guma_station": 0.27
+  },
+  {
+    "date": 20171218,
+    "Mohembo_station": 0.28,
+    "Guma_station": 0.27
+  },
+  {
+    "date": 20171219,
+    "Mohembo_station": 0.3,
+    "Guma_station": 0.27
+  },
+  {
+    "date": 20171220,
+    "Mohembo_station": 0.32,
+    "Guma_station": 0.28
+  },
+  {
+    "date": 20171221,
+    "Mohembo_station": 0.33,
+    "Guma_station": 0.28
+  },
+  {
+    "date": 20171222,
+    "Mohembo_station": 0.34,
+    "Guma_station": 0.28
+  },
+  {
+    "date": 20171223,
+    "Mohembo_station": 0.42,
+    "Guma_station": 0.28
+  },
+  {
+    "date": 20171224,
+    "Mohembo_station": 0.44,
+    "Guma_station": 0.29
+  },
+  {
+    "date": 20171225,
+    "Mohembo_station": 0.46,
+    "Guma_station": 0.29
+  },
+  {
+    "date": 20171226,
+    "Mohembo_station": 0.51,
+    "Guma_station": 0.29
+  },
+  {
+    "date": 20171227,
+    "Mohembo_station": 0.54,
+    "Guma_station": 0.29
+  },
+  {
+    "date": 20171228,
+    "Mohembo_station": 0.55,
+    "Guma_station": 0.29
+  },
+  {
+    "date": 20171229,
+    "Mohembo_station": 0.55,
+    "Guma_station": 0.29
+  },
+  {
+    "date": 20171230,
+    "Mohembo_station": 0.56,
+    "Guma_station": 0.3
+  },
+  {
+    "date": 20171231,
+    "Mohembo_station": 0.57,
+    "Guma_station": 0.3
+  },
+  {
+    "date": 20180101,
+    "Mohembo_station": 0.59,
+    "Guma_station": 0.3
+  },
+  {
+    "date": 20180102,
+    "Mohembo_station": 0.62,
+    "Guma_station": 0.3
+  },
+  {
+    "date": 20180103,
+    "Mohembo_station": 0.64,
+    "Guma_station": 0.3
+  },
+  {
+    "date": 20180104,
+    "Mohembo_station": 0.68,
+    "Guma_station": 0.3
+  },
+  {
+    "date": 20180105,
+    "Mohembo_station": 0.7,
+    "Guma_station": 0.3
+  },
+  {
+    "date": 20180106,
+    "Mohembo_station": 0.72,
+    "Guma_station": 0.29
+  },
+  {
+    "date": 20180107,
+    "Mohembo_station": 0.74,
+    "Guma_station": 0.29
+  },
+  {
+    "date": 20180108,
+    "Mohembo_station": 0.74,
+    "Guma_station": 0.29
+  },
+  {
+    "date": 20180109,
+    "Mohembo_station": 0.75,
+    "Guma_station": 0.29
+  },
+  {
+    "date": 20180110,
+    "Mohembo_station": 0.75,
+    "Guma_station": 0.28
+  },
+  {
+    "date": 20180111,
+    "Mohembo_station": 0.77,
+    "Guma_station": 0.28
+  },
+  {
+    "date": 20180112,
+    "Mohembo_station": 0.78,
+    "Guma_station": 0.28
+  },
+  {
+    "date": 20180113,
+    "Mohembo_station": 0.78,
+    "Guma_station": 0.28
+  },
+  {
+    "date": 20180114,
+    "Mohembo_station": 0.79,
+    "Guma_station": 0.28
+  },
+  {
+    "date": 20180115,
+    "Mohembo_station": 0.8,
+    "Guma_station": 0.28
+  },
+  {
+    "date": 20180116,
+    "Mohembo_station": 0.8,
+    "Guma_station": 0.28
+  },
+  {
+    "date": 20180117,
+    "Mohembo_station": 0.8,
+    "Guma_station": 0.28
+  },
+  {
+    "date": 20180118,
+    "Mohembo_station": 0.79,
+    "Guma_station": 0.27
+  },
+  {
+    "date": 20180119,
+    "Mohembo_station": 0.8,
+    "Guma_station": 0.27
+  },
+  {
+    "date": 20180120,
+    "Mohembo_station": 0.81,
+    "Guma_station": 0.27
+  },
+  {
+    "date": 20180121,
+    "Mohembo_station": 0.81,
+    "Guma_station": 0.27
+  },
+  {
+    "date": 20180122,
+    "Mohembo_station": 0.82,
+    "Guma_station": 0.27
+  },
+  {
+    "date": 20180123,
+    "Mohembo_station": 0.83,
+    "Guma_station": 0.27
+  },
+  {
+    "date": 20180124,
+    "Mohembo_station": 0.85,
+    "Guma_station": 0.26
+  },
+  {
+    "date": 20180125,
+    "Mohembo_station": 0.87,
+    "Guma_station": 0.26
+  },
+  {
+    "date": 20180126,
+    "Mohembo_station": 0.88,
+    "Guma_station": 0.26
+  },
+  {
+    "date": 20180127,
+    "Mohembo_station": 0.9,
+    "Guma_station": 0.27
+  },
+  {
+    "date": 20180128,
+    "Mohembo_station": 0.91,
+    "Guma_station": 0.3
+  },
+  {
+    "date": 20180129,
+    "Mohembo_station": 0.93,
+    "Guma_station": 0.3
+  },
+  {
+    "date": 20180130,
+    "Mohembo_station": 0.95,
+    "Guma_station": 0.3
+  },
+  {
+    "date": 20180131,
+    "Mohembo_station": 0.98,
+    "Guma_station": 0.31
+  },
+  {
+    "date": 20180201,
+    "Mohembo_station": 1.02,
+    "Guma_station": 0.33
+  },
+  {
+    "date": 20180202,
+    "Mohembo_station": 1.03,
+    "Guma_station": 0.34
+  },
+  {
+    "date": 20180203,
+    "Mohembo_station": 1.05,
+    "Guma_station": 0.34
+  },
+  {
+    "date": 20180204,
+    "Mohembo_station": 1.11,
+    "Guma_station": 0.36
+  },
+  {
+    "date": 20180205,
+    "Mohembo_station": 1.11,
+    "Guma_station": 0.36
+  },
+  {
+    "date": 20180206,
+    "Mohembo_station": 1.14,
+    "Guma_station": 0.37
+  },
+  {
+    "date": 20180207,
+    "Mohembo_station": 1.2,
+    "Guma_station": 0.37
+  },
+  {
+    "date": 20180208,
+    "Mohembo_station": 1.21,
+    "Guma_station": 0.38
+  },
+  {
+    "date": 20180209,
+    "Mohembo_station": 1.23,
+    "Guma_station": 0.38
+  },
+  {
+    "date": 20180210,
+    "Mohembo_station": 1.24,
+    "Guma_station": 0.38
+  },
+  {
+    "date": 20180211,
+    "Mohembo_station": 1.27,
+    "Guma_station": 0.4
+  },
+  {
+    "date": 20180212,
+    "Mohembo_station": 1.28,
+    "Guma_station": 0.4
+  },
+  {
+    "date": 20180213,
+    "Mohembo_station": 1.31,
+    "Guma_station": 0.41
+  },
+  {
+    "date": 20180214,
+    "Mohembo_station": 1.35,
+    "Guma_station": 0.42
+  },
+  {
+    "date": 20180215,
+    "Mohembo_station": 1.39,
+    "Guma_station": 0.42
+  },
+  {
+    "date": 20180216,
+    "Mohembo_station": 1.44,
+    "Guma_station": 0.43
+  },
+  {
+    "date": 20180217,
+    "Mohembo_station": 1.49,
+    "Guma_station": 0.44
+  },
+  {
+    "date": 20180218,
+    "Mohembo_station": 1.52,
+    "Guma_station": 0.45
+  },
+  {
+    "date": 20180219,
+    "Mohembo_station": 1.56,
+    "Guma_station": 0.46
+  },
+  {
+    "date": 20180220,
+    "Mohembo_station": 1.61,
+    "Guma_station": 0.46
+  },
+  {
+    "date": 20180221,
+    "Mohembo_station": 1.67,
+    "Guma_station": 0.46
+  },
+  {
+    "date": 20180222,
+    "Mohembo_station": 1.76,
+    "Guma_station": 0.47
+  },
+  {
+    "date": 20180223,
+    "Mohembo_station": 1.8,
+    "Guma_station": 0.47
+  },
+  {
+    "date": 20180224,
+    "Mohembo_station": 1.81,
+    "Guma_station": 0.47
+  },
+  {
+    "date": 20180225,
+    "Mohembo_station": 1.85,
+    "Guma_station": 0.48
+  },
+  {
+    "date": 20180226,
+    "Mohembo_station": 1.86,
+    "Guma_station": 0.48
+  },
+  {
+    "date": 20180227,
+    "Mohembo_station": 1.86,
+    "Guma_station": 0.48
+  },
+  {
+    "date": 20180228,
+    "Mohembo_station": 1.87,
+    "Guma_station": 0.49
+  },
+  {
+    "date": 20180301,
+    "Mohembo_station": 1.9,
+    "Guma_station": 0.49
+  },
+  {
+    "date": 20180302,
+    "Mohembo_station": 1.92,
+    "Guma_station": 0.52
+  },
+  {
+    "date": 20180303,
+    "Mohembo_station": 1.95,
+    "Guma_station": 0.55
+  },
+  {
+    "date": 20180304,
+    "Mohembo_station": 1.96,
+    "Guma_station": 0.58
+  },
+  {
+    "date": 20180305,
+    "Mohembo_station": 1.99,
+    "Guma_station": 0.6
+  },
+  {
+    "date": 20180306,
+    "Mohembo_station": 2.02,
+    "Guma_station": 0.62
+  },
+  {
+    "date": 20180307,
+    "Mohembo_station": 2.03,
+    "Guma_station": 0.62
+  },
+  {
+    "date": 20180308,
+    "Mohembo_station": 2.02,
+    "Guma_station": 0.64
+  },
+  {
+    "date": 20180309,
+    "Mohembo_station": 2.02,
+    "Guma_station": 0.65
+  },
+  {
+    "date": 20180310,
+    "Mohembo_station": 2.02,
+    "Guma_station": 0.67
+  },
+  {
+    "date": 20180311,
+    "Mohembo_station": 2.02,
+    "Guma_station": 0.68
+  },
+  {
+    "date": 20180312,
+    "Mohembo_station": 2.02,
+    "Guma_station": 0.7
+  },
+  {
+    "date": 20180313,
+    "Mohembo_station": 2.04,
+    "Guma_station": 0.72
+  },
+  {
+    "date": 20180314,
+    "Mohembo_station": 2.03,
+    "Guma_station": 0.76
+  },
+  {
+    "date": 20180315,
+    "Mohembo_station": 2.02,
+    "Guma_station": 0.79
+  },
+  {
+    "date": 20180316,
+    "Mohembo_station": 2.01,
+    "Guma_station": 0.82
+  },
+  {
+    "date": 20180317,
+    "Mohembo_station": 2.02,
+    "Guma_station": 0.84
+  },
+  {
+    "date": 20180318,
+    "Mohembo_station": 2.04,
+    "Guma_station": 0.85
+  },
+  {
+    "date": 20180319,
+    "Mohembo_station": 2.04,
+    "Guma_station": 0.87
+  },
+  {
+    "date": 20180320,
+    "Mohembo_station": 2.03,
+    "Guma_station": 0.87
+  },
+  {
+    "date": 20180321,
+    "Mohembo_station": 2.04,
+    "Guma_station": 0.88
+  },
+  {
+    "date": 20180322,
+    "Mohembo_station": 2.04,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20180323,
+    "Mohembo_station": 2.06,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20180324,
+    "Mohembo_station": 2.07,
+    "Guma_station": 0.92
+  },
+  {
+    "date": 20180325,
+    "Mohembo_station": 2.06,
+    "Guma_station": 0.92
+  },
+  {
+    "date": 20180326,
+    "Mohembo_station": 2.04,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20180327,
+    "Mohembo_station": 2.01,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20180328,
+    "Mohembo_station": 2,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20180329,
+    "Mohembo_station": 1.99,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20180330,
+    "Mohembo_station": 1.99,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20180331,
+    "Mohembo_station": 1.98,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20180401,
+    "Mohembo_station": 2.1,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20180402,
+    "Mohembo_station": 2.16,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20180403,
+    "Mohembo_station": 2.13,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20180404,
+    "Mohembo_station": 2.09,
+    "Guma_station": 0.93
+  },
+  {
+    "date": 20180405,
+    "Mohembo_station": 2.08,
+    "Guma_station": 0.93
+  },
+  {
+    "date": 20180406,
+    "Mohembo_station": 2.12,
+    "Guma_station": 0.93
+  },
+  {
+    "date": 20180407,
+    "Mohembo_station": 2.15,
+    "Guma_station": 0.92
+  },
+  {
+    "date": 20180408,
+    "Mohembo_station": 2.19,
+    "Guma_station": 0.92
+  },
+  {
+    "date": 20180409,
+    "Mohembo_station": 2.24,
+    "Guma_station": 0.92
+  },
+  {
+    "date": 20180410,
+    "Mohembo_station": 2.26,
+    "Guma_station": 0.91
+  },
+  {
+    "date": 20180411,
+    "Mohembo_station": 2.29,
+    "Guma_station": 0.91
+  },
+  {
+    "date": 20180412,
+    "Mohembo_station": 2.31,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20180413,
+    "Mohembo_station": 2.33,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20180414,
+    "Mohembo_station": 2.35,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20180415,
+    "Mohembo_station": 2.37,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20180416,
+    "Mohembo_station": 2.4,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20180417,
+    "Mohembo_station": 2.42,
+    "Guma_station": 0.89
+  },
+  {
+    "date": 20180418,
+    "Mohembo_station": 2.44,
+    "Guma_station": 0.89
+  },
+  {
+    "date": 20180419,
+    "Mohembo_station": 2.47,
+    "Guma_station": 0.89
+  },
+  {
+    "date": 20180420,
+    "Mohembo_station": 2.5,
+    "Guma_station": 0.89
+  },
+  {
+    "date": 20180421,
+    "Mohembo_station": 2.53,
+    "Guma_station": 0.89
+  },
+  {
+    "date": 20180422,
+    "Mohembo_station": 2.56,
+    "Guma_station": 0.89
+  },
+  {
+    "date": 20180423,
+    "Mohembo_station": 2.59,
+    "Guma_station": 0.89
+  },
+  {
+    "date": 20180424,
+    "Mohembo_station": 2.62,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20180425,
+    "Mohembo_station": 2.64,
+    "Guma_station": 0.9
+  },
+  {
+    "date": 20180426,
+    "Mohembo_station": 2.68,
+    "Guma_station": 0.91
+  },
+  {
+    "date": 20180427,
+    "Mohembo_station": 2.71,
+    "Guma_station": 0.92
+  },
+  {
+    "date": 20180428,
+    "Mohembo_station": 2.74,
+    "Guma_station": 0.92
+  },
+  {
+    "date": 20180429,
+    "Mohembo_station": 2.77,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20180430,
+    "Mohembo_station": 2.8,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20180501,
+    "Mohembo_station": 2.82,
+    "Guma_station": 0.94
+  },
+  {
+    "date": 20180502,
+    "Mohembo_station": 2.85,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20180503,
+    "Mohembo_station": 2.85,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20180504,
+    "Mohembo_station": 2.86,
+    "Guma_station": 0.95
+  },
+  {
+    "date": 20180505,
+    "Mohembo_station": 2.86,
+    "Guma_station": 0.96
+  },
+  {
+    "date": 20180506,
+    "Mohembo_station": 2.87,
+    "Guma_station": 0.96
+  },
+  {
+    "date": 20180507,
+    "Mohembo_station": 2.88,
+    "Guma_station": 0.96
+  },
+  {
+    "date": 20180508,
+    "Mohembo_station": 2.88,
+    "Guma_station": 0.97
+  },
+  {
+    "date": 20180509,
+    "Mohembo_station": 2.88,
+    "Guma_station": 0.98
+  },
+  {
+    "date": 20180510,
+    "Mohembo_station": 2.28,
+    "Guma_station": 0.98
+  },
+  {
+    "date": 20180511,
+    "Mohembo_station": 2.88,
+    "Guma_station": 1
+  },
+  {
+    "date": 20180512,
+    "Mohembo_station": 2.87,
+    "Guma_station": 1
+  },
+  {
+    "date": 20180513,
+    "Mohembo_station": 2.87,
+    "Guma_station": 1.01
+  },
+  {
+    "date": 20180514,
+    "Mohembo_station": 2.86,
+    "Guma_station": 1.03
+  },
+  {
+    "date": 20180515,
+    "Mohembo_station": 2.84,
+    "Guma_station": 1.04
+  },
+  {
+    "date": 20180516,
+    "Mohembo_station": 2.82,
+    "Guma_station": 1.05
+  },
+  {
+    "date": 20180517,
+    "Mohembo_station": 2.8,
+    "Guma_station": 1.06
+  },
+  {
+    "date": 20180518,
+    "Mohembo_station": 2.77,
+    "Guma_station": 1.06
+  },
+  {
+    "date": 20180519,
+    "Mohembo_station": 2.75,
+    "Guma_station": 1.07
+  },
+  {
+    "date": 20180520,
+    "Mohembo_station": 2.73,
+    "Guma_station": 1.07
+  },
+  {
+    "date": 20180521,
+    "Mohembo_station": 2.7,
+    "Guma_station": 1.08
+  },
+  {
+    "date": 20180522,
+    "Mohembo_station": 2.66,
+    "Guma_station": 1.08
+  },
+  {
+    "date": 20180523,
+    "Mohembo_station": 2.65,
+    "Guma_station": 1.08
+  },
+  {
+    "date": 20180524,
+    "Mohembo_station": 2.61,
+    "Guma_station": 1.09
+  },
+  {
+    "date": 20180525,
+    "Mohembo_station": 2.59,
+    "Guma_station": 1.1
+  },
+  {
+    "date": 20180526,
+    "Mohembo_station": 2.55,
+    "Guma_station": 1.1
+  },
+  {
+    "date": 20180527,
+    "Mohembo_station": 2.5,
+    "Guma_station": 1.1
+  },
+  {
+    "date": 20180528,
+    "Mohembo_station": 2.46,
+    "Guma_station": 1.1
+  },
+  {
+    "date": 20180529,
+    "Mohembo_station": 2.42,
+    "Guma_station": 1.09
+  },
+  {
+    "date": 20180530,
+    "Mohembo_station": 2.39,
+    "Guma_station": 1.09
+  },
+  {
+    "date": 20180531,
+    "Mohembo_station": 2.34,
+    "Guma_station": 1.1
+  },
+  {
+    "date": 20180601,
+    "Mohembo_station": 2.3,
+    "Guma_station": 1.09
+  }
+]

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "pixels_extent",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": "135", "cell": "135", "latitude": 22.45, "longitude": -18.75 }, "geometry": { "type": "Point", "coordinates": [ -18.75, 22.45 ] } },
+{ "type": "Feature", "properties": { "ID": "318", "cell": "318", "latitude": 23.25, "longitude": -19.45 }, "geometry": { "type": "Point", "coordinates": [ -19.45, 23.25 ] } },
+{ "type": "Feature", "properties": { "ID": "373", "cell": "373", "latitude": 23.75, "longitude": -19.65 }, "geometry": { "type": "Point", "coordinates": [ -19.65, 23.75 ] } },
+{ "type": "Feature", "properties": { "ID": "483", "cell": "483", "latitude": 22.25, "longitude": -20.15 }, "geometry": { "type": "Point", "coordinates": [ -20.15, 22.25 ] } },
+{ "type": "Feature", "properties": { "ID": "359", "cell": "359", "latitude": 22.35, "longitude": -19.65 }, "geometry": { "type": "Point", "coordinates": [ -19.65, 22.35 ] } }
+]
+}

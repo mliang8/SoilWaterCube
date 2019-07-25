@@ -308,6 +308,8 @@ var sliderControl = L.control.sliderControl({
 });
 
 
+
+//fixing some typos in assets names
 //create legends 
  var lcLegend=L.control({position:"topright"});
         lcLegend.onAdd=function(map){

@@ -231,13 +231,13 @@ var lc=L.layerGroup();
 
 //add the four kriging results as overlay
 var ndvikrig=L.layerGroup();
-  L.imageOverlay('assets/vis/ndvi_krig.png', imageBounds).setOpacity(1).addTo(ndvikrig);
+  L.imageOverlay('assets/vis/ndvi_krig.PNG', imageBounds).setOpacity(1).addTo(ndvikrig);
 var ndwikrig=L.layerGroup();
-  L.imageOverlay('assets/vis/ndwi_krig.png', imageBounds).setOpacity(1).addTo(ndwikrig);
+  L.imageOverlay('assets/vis/ndwi_krig.PNG', imageBounds).setOpacity(1).addTo(ndwikrig);
 var laikrig=L.layerGroup();
-  L.imageOverlay('assets/vis/lai_krig.png', imageBounds).setOpacity(1).addTo(laikrig);
+  L.imageOverlay('assets/vis/lai_krig.PNG', imageBounds).setOpacity(1).addTo(laikrig);
 var faparkrig=L.layerGroup();
-  L.imageOverlay('assets/vis/fapar_krig.png', imageBounds).setOpacity(1).addTo(faparkrig);
+  L.imageOverlay('assets/vis/fapar_krig.PNG', imageBounds).setOpacity(1).addTo(faparkrig);
 
 
 //initialize the time slider for SWI

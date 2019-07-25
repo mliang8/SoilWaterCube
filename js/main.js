@@ -323,7 +323,7 @@ var sliderControl = L.control.sliderControl({
         };
 var ndviLegend=L.control({position:"topright"});
         ndviLegend.onAdd=function(map){
-          var src = "assets/vis/ndvi_legend.png";
+          var src = "assets/vis/ndvi_legend.PNG";
           var div = L.DomUtil.create('div', 'infolegend');
           //div.id=infolegend;
           div.style.width = '125px';
@@ -346,7 +346,7 @@ var ndwiLegend=L.control({position:"topright"});
 var laiLegend=L.control({position:"topright"});
       laiLegend.onAdd=function(map){
 
-        var src = "assets/vis/lai_legend.png";
+        var src = "assets/vis/lai_legend.PNG";
         var div = L.DomUtil.create('div', 'infolegend');
         //div.id=infolegend;
         div.style.width = '125px';
@@ -358,7 +358,7 @@ var laiLegend=L.control({position:"topright"});
       };
 var faparLegend=L.control({position:"topright"});
       faparLegend.onAdd=function(map){
-        var src = "assets/vis/fapar_legend.png";
+        var src = "assets/vis/fapar_legend.PNG";
         var div = L.DomUtil.create('div', 'infolegend');
         //div.id=infolegend;
         div.style.width = '125px';

@@ -338,7 +338,7 @@ ol{
   color: red; 
 }
 
-@media screen and (max-width: 1500px) {
+@media screen and (max-width: 1600px) {
   .tabcontent li {
     font-size: 17px;
   }
@@ -350,6 +350,10 @@ ol{
     height: 20px;
   }
   
+
+  h2{
+    font-size: 30px;
+  }
 }
 
 

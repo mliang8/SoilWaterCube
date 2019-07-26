@@ -387,63 +387,71 @@ var swiLegend=L.control({position:"topright"});
 
 //handels turn on and off the legend along with the overlay
 map.on('overlayadd', function(eventLayer){
-    if (eventLayer.name === 'Land cover'){
-        lcLegend.addTo(map);
-        map.removeControl(ndwiLegend);
+  if (eventLayer.name === 'Soil Water Index'){
+    map.removeControl(ndwiLegend);
         map.removeControl(ndviLegend);
         map.removeControl(laiLegend);
         map.removeControl(faparLegend);
-        map.removeControl(swiLegend);
-        map.removeControl(sliderControl);
-    };
-    if (eventLayer.name === 'Correlation: SWI&NDVI'){ 
-        ndviLegend.addTo(map);
-        map.removeControl(ndwiLegend);
         map.removeControl(lcLegend);
-        map.removeControl(laiLegend);
-        map.removeControl(faparLegend);
-        map.removeControl(swiLegend);
-        map.removeControl(sliderControl);
-    };
-    if (eventLayer.name === 'Correlation: SWI&NDWI'){
-        ndwiLegend.addTo(map);
-        map.removeControl(lcLegend);
-        map.removeControl(ndviLegend);
-        map.removeControl(laiLegend);
-        map.removeControl(faparLegend);
-        map.removeControl(swiLegend);
-        map.removeControl(sliderControl);
-    };
-    if (eventLayer.name==="Correlation: SWI&LAI"){
-      laiLegend.addTo(map);
-      map.removeControl(ndwiLegend);
-        map.removeControl(ndviLegend);
-        map.removeControl(lcLegend);
-        map.removeControl(faparLegend);
-        map.removeControl(swiLegend);
-        map.removeControl(sliderControl);
-    };
-    if (eventLayer.name==="Correlation: SWI&FAPAR"){
-      faparLegend.addTo(map);
-      map.removeControl(ndwiLegend);
-        map.removeControl(ndviLegend);
-        map.removeControl(laiLegend);
-        map.removeControl(lcLegend);
-        map.removeControl(swiLegend);
-        map.removeControl(sliderControl);
-    };
-    if (eventLayer.name === 'Soil Water Index'){
-      map.removeControl(lcLegend);
+      
       sliderControl.addTo(map);
       swiLegend.addTo(map);
+      
       sliderControl.startSlider();
+        
+      
+    }; 
+    if (eventLayer.name === 'Land cover'){
+        
         map.removeControl(ndwiLegend);
         map.removeControl(ndviLegend);
         map.removeControl(laiLegend);
         map.removeControl(faparLegend);
+        map.removeControl(swiLegend);
+        map.removeControl(sliderControl);
+        lcLegend.addTo(map);
+    };
+    if (eventLayer.name === 'Correlation: SWI&NDVI'){ 
         
+        map.removeControl(ndwiLegend);
+        map.removeControl(lcLegend);
+        map.removeControl(laiLegend);
+        map.removeControl(faparLegend);
+        map.removeControl(swiLegend);
+        map.removeControl(sliderControl);
+        ndviLegend.addTo(map);
+    };
+    if (eventLayer.name === 'Correlation: SWI&NDWI'){
+       
+        map.removeControl(lcLegend);
+        map.removeControl(ndviLegend);
+        map.removeControl(laiLegend);
+        map.removeControl(faparLegend);
+        map.removeControl(swiLegend);
+        map.removeControl(sliderControl);
+         ndwiLegend.addTo(map);
+    };
+    if (eventLayer.name==="Correlation: SWI&LAI"){
       
-    } 
+      map.removeControl(ndwiLegend);
+        map.removeControl(ndviLegend);
+        map.removeControl(lcLegend);
+        map.removeControl(faparLegend);
+        map.removeControl(swiLegend);
+        map.removeControl(sliderControl);
+        laiLegend.addTo(map);
+    };
+    if (eventLayer.name==="Correlation: SWI&FAPAR"){
+      
+      map.removeControl(ndwiLegend);
+        map.removeControl(ndviLegend);
+        map.removeControl(laiLegend);
+        map.removeControl(lcLegend);
+        map.removeControl(swiLegend);
+        map.removeControl(sliderControl);
+        faparLegend.addTo(map);
+    }
+    
 });
 
 map.on('overlayremove', function(eventLayer){

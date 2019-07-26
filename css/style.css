@@ -114,10 +114,10 @@ p{
 
 #wlchart{
   width: 33%;
-  height: auto;
-  position: absolute;
-  bottom: -20px;
-  margin-bottom: 10px;
+  height: 30%;
+  position: fixed;
+  bottom: 0px;
+  margin-bottom: 83px;
   padding-bottom: 60px;
   padding-left: 15px;
   padding-top: 5px;
@@ -240,6 +240,13 @@ p{
   border-radius: 30px 30px 0px 0px;
 }
 
+#leftbutton{
+  float: left;
+}
+
+#rightbutton{
+  float: right;
+}
 /* Change background color of buttons on hover */
 .tab button:hover {
   background-color: #ddd;
@@ -329,6 +336,13 @@ ol{
 
 .range-slider {
   color: red; 
+}
+
+@media screen and (max-width: 1500px) {
+  ul, ol {
+    font-size: 16px;
+  }
+  
 }
 
 

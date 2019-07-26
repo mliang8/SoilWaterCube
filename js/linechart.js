@@ -1,3 +1,6 @@
+///Author Mengyu Liang, inspired by several D3 examples demonstrating the implementation of
+  //inetractive line chart and data retrivel at the exact time stamps
+
 chartdiv=document.getElementById("wlchart");
 console.log(chartdiv.clientWidth);
 console.log(chartdiv.clientHeight);

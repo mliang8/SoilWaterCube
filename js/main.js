@@ -141,7 +141,7 @@ function onEachFeature(feature, layer) {
             y:feature.properties[prop],
             label:prop
           };
-          console.log(lc);
+          // console.log(lc);
           lcss.push(lc);       
 
         }

@@ -339,8 +339,15 @@ ol{
 }
 
 @media screen and (max-width: 1500px) {
-  ul, ol {
+  li {
     font-size: 16px;
+  }
+  .tabcontent{
+    padding-top: 15px;
+
+  }
+  .tabcontent img{
+    width: 20px;
   }
   
 }

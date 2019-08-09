@@ -114,13 +114,13 @@ p{
 
 #wlchart{
   width: 33%;
-  height: 30%;
+  height: 25%;
   position: fixed;
   bottom: 0px;
-  margin-bottom: 83px;
+  margin-bottom: 105px;
   padding-bottom: 60px;
   padding-left: 15px;
-  padding-top: 5px;
+  padding-top: 10px;
  
 }
 
@@ -261,6 +261,7 @@ p{
 
 /* Style the tab content */
 .tabcontent {
+
   float: left;
   display: none;
   margin-left: 1%;
@@ -301,7 +302,7 @@ p{
 
 
 ol{
-  margin-top: 8px;
+  margin-top: 2%;
 }
 
 /*.tabcontent p{
@@ -338,22 +339,37 @@ ol{
   color: red; 
 }
 
-@media screen and (max-width: 1440px) {
-  .tabcontent li {
-    font-size: 17px;
+@media screen and (min-width: 1260px) {
+  #wlchart{
+    width: 33%;
+    height: 35%;
+    position: fixed;
+    bottom: 0px;
+    margin-bottom: 6%;
+    padding-bottom: 60px;
+    padding-left: 15px;
+    padding-top: 10px;
+   
   }
-  .tabcontent{
-    padding-top: 15px;
 
+
+  ol{
+    margin-top: 6%;
   }
+
+  ul{
+    margin-top: 6%;
+  }
+
+  .tabcontent li{
+    font-size: 20px;
+  }
+
   .tabcontent img{
     height: 20px;
   }
   
 
-  h2{
-    font-size: 30px;
-  }
 }
 
 

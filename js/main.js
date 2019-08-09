@@ -35,7 +35,7 @@ var simpleIcon=L.icon({
 
 	
   var map=L.map('mapid',{
-		center:[-19.9,23.4], //specify a map center location when load
+		center:[-19.3,23.1], //specify a map center location when load
 		zoom:8, //specify the zoom levels
 		layers:[streets]  //intial background
 	});

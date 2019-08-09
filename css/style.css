@@ -345,7 +345,7 @@ ol{
     height: 35%;
     position: fixed;
     bottom: 0px;
-    margin-bottom: 6%;
+    margin-bottom: 5%;
     padding-bottom: 60px;
     padding-left: 15px;
     padding-top: 10px;
@@ -354,19 +354,19 @@ ol{
 
 
   ol{
-    margin-top: 5%;
+    margin-top: 4%;
   }
 
   ul{
-    margin-top: 5%;
+    margin-top: 4%;
   }
 
   .tabcontent li{
-    font-size: 20px;
+    font-size: 18px;
   }
 
   .tabcontent img{
-    height: 20px;
+    height: 18px;
   }
   
 

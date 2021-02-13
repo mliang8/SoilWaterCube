@@ -1,8 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Abel|Passion+One:400,700|Yantramanav:100,300,400,500,700&display=swap&&effect=decaying');
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Passion+One:wght@400;700&family=Yantramanav:wght@400;500&effect=font-effect-emboss');
 
 /*font-family: 'Abel', sans-serif;
 font-family: 'Passion One', cursive;
 */
+
+
 
 html, body {
 			height: 100%;
@@ -17,6 +19,7 @@ ul a {
   font-style: italic;
   text-decoration: none;
 }
+
 
 h2{
   font-family: 'Yantramanav', sans-serif;
